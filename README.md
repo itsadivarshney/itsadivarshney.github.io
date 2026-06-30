@@ -1,4 +1,4 @@
-Welcome to my digital home. This website is my personal archive for writing reflections and things that I am interested in.
+Welcome to my digital home. This website is my personal blog for writing reflections and things that I am interested in.
 
 ## Credits
 
