@@ -23,7 +23,9 @@ Today, we have built a different kind of Panopticon.
 
 > Not circular. Not made of stone. Not guarded by a single inspector. But digital.
 
-On social media, we live under the constant and collective gaze of the “Other". We are not always being watched by one person, but we are always potentially visible to many. So we begin to curate.
+On social media, we live under the constant and collective gaze of the “Other". We are not always being watched by one person, but we are always potentially visible to many.
+
+So we begin to curate.
 
 > We curate our achievements. We curate our aesthetics. We curate our opinions. We curate our happiness. We curate even our vulnerability.
 
