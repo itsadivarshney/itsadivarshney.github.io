@@ -97,3 +97,4 @@ The *Bhagavad Gita* invites us to act from a steadier place.
 
 - Co-written with support from [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).
 - *Shrimad Bhagavad Gita Sachitra English*, Gita Press Gorakhpur: [https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283](https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283)
+- Bhagavad Gita 2.70, on the ocean analogy and steadiness: [https://www.holy-bhagavad-gita.org/chapter/2/verse/70/](https://www.holy-bhagavad-gita.org/chapter/2/verse/70/)

@@ -74,3 +74,5 @@ The same silence can come from different places. One version hides from responsi
 
 - Co-written with support from [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).
 - *Shrimad Bhagavad Gita Sachitra English*, Gita Press Gorakhpur: [https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283](https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283)
+- Bhagavad Gita 17.15, on austerity of speech: [https://www.holy-bhagavad-gita.org/chapter/17/verse/15/](https://www.holy-bhagavad-gita.org/chapter/17/verse/15/)
+- Bhagavad Gita 17.16, on austerity of the mind and silence: [https://www.holy-bhagavad-gita.org/chapter/17/verse/16/](https://www.holy-bhagavad-gita.org/chapter/17/verse/16/)

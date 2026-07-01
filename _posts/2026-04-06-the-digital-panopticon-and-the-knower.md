@@ -118,3 +118,4 @@ This is the disciplined habit of emotionally detaching from the performance and 
 - Co-written with support from [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).
 - *Shrimad Bhagavad Gita Sachitra English*, Gita Press Gorakhpur: [https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283](https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283)
 - University College London, Bentham Project, on Jeremy Bentham’s Panopticon: [https://www.ucl.ac.uk/laws/research/research-projects/bentham-project/about-jeremy-bentham/panopticon](https://www.ucl.ac.uk/laws/research/research-projects/bentham-project/about-jeremy-bentham/panopticon)
+- Bhagavad Gita Chapter 13, on Kshetra and Kshetrajna: [https://www.holy-bhagavad-gita.org/chapter/13/](https://www.holy-bhagavad-gita.org/chapter/13/)

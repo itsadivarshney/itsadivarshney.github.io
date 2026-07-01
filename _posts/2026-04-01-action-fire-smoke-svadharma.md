@@ -57,3 +57,4 @@ We cannot fully control how others interpret our actions but we can examine the 
 
 - Co-written with support from [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).
 - *Shrimad Bhagavad Gita Sachitra English*, Gita Press Gorakhpur: [https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283](https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283)
+- Bhagavad Gita 18.48, on all actions being covered by some imperfection, as fire is covered by smoke: [https://www.holy-bhagavad-gita.org/chapter/18/verse/48/](https://www.holy-bhagavad-gita.org/chapter/18/verse/48/)

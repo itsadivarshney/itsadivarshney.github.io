@@ -90,3 +90,4 @@ But the Witness is deeper than all of them.
 
 - Co-written with support from [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).
 - *Shrimad Bhagavad Gita Sachitra English*, Gita Press Gorakhpur: [https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283](https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283)
+- Bhagavad Gita Chapter 14, on Sattva, Rajas, Tamas, and transcending the Gunas: [https://www.holy-bhagavad-gita.org/chapter/14/](https://www.holy-bhagavad-gita.org/chapter/14/)

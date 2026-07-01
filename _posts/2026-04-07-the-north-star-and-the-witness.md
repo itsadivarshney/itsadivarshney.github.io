@@ -110,3 +110,5 @@ When we are less identified with the outcome ([Authentic Action](/posts/witness-
 
 - Co-written with support from [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).
 - *Shrimad Bhagavad Gita Sachitra English*, Gita Press Gorakhpur: [https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283](https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283)
+- Bhagavad Gita 3.27, on actions being performed by the Gunas of Prakriti: [https://www.holy-bhagavad-gita.org/chapter/3/verse/27/](https://www.holy-bhagavad-gita.org/chapter/3/verse/27/)
+- Bhagavad Gita 13.20, on Prakriti, Purusha, and the Gunas arising from material nature: [https://www.holy-bhagavad-gita.org/chapter/13/verse/20/](https://www.holy-bhagavad-gita.org/chapter/13/verse/20/)

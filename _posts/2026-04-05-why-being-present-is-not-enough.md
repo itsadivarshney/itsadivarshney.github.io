@@ -98,3 +98,5 @@ That question is not always comfortable. Sometimes doing the right thing feels h
 ## References
 - Co-written with support from [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).
 - *Shrimad Bhagavad Gita Sachitra English*, Gita Press Gorakhpur: [https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283](https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283)
+- Bhagavad Gita 3.35, on performing one’s own Dharma rather than another’s: [https://www.holy-bhagavad-gita.org/chapter/3/verse/35/](https://www.holy-bhagavad-gita.org/chapter/3/verse/35/)
+- Bhagavad Gita 18.47, on duty according to one’s nature: [https://www.holy-bhagavad-gita.org/chapter/18/verse/47/](https://www.holy-bhagavad-gita.org/chapter/18/verse/47/)
