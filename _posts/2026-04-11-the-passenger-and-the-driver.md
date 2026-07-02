@@ -27,7 +27,7 @@ This metaphor is powerful because it shows that the various parts of our persona
 
 ## Prakriti, Witness Consciousness, Authentic Action
 
-The whole chariot belongs to [Prakriti](2026-04-10-the-present-moment-as-a-reset.md) — material nature. It's important to remember that even the driver, i.e., the intellect, is part of Prakriti. Your intellect may be highly refined. It may use your education, ethics, experience, and professional training to make decisions. But the intellect is still not the deepest You.
+The whole chariot belongs to [Prakriti](/posts/the-present-moment-as-a-reset/) — material nature. It's important to remember that even the driver, i.e., the intellect, is part of Prakriti. Your intellect may be highly refined. It may use your education, ethics, experience, and professional training to make decisions. But the intellect is still not the deepest You.
 
 The Passenger does not grab the reins, it does not panic every time the road bends, it does not become the wheels, the horses, or the dust on the road, it witnesses the journey.
 
