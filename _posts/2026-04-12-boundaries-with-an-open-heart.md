@@ -2,7 +2,7 @@
 title: "Boundaries With an Open Heart"
 date: 2026-04-12 09:00:00 +0800
 categories: [Philosophical Reflections]
-tags: [the-bhagavad-gita, boundaries, samatvam, buddhi, dharma, love, authentic-action]
+tags: [the-bhagavad-gita, boundaries, samatvam, buddhi, dharma, love, witness-consciousness, authentic-action]
 description: "A reflection on setting boundaries without closing the heart."
 ---
 
@@ -44,7 +44,7 @@ Why set a boundary at all? Some people avoid boundaries because they fear they a
 
 When a boundary is avoided out of fear, we may unintentionally participate in the erosion of our own integrity. We may become compliant in patterns we know are harmful. This compliance does not always look like cruelty.
 
-> Sometimes, it looks like politeness. Sometimes, it looks like patience. Sometimes, it looks like “being the bigger person.” But if it quietly agrees with disorder, it is not Dharma.
+> Sometimes, it looks like politeness. Sometimes, it looks like patience. Sometimes, it looks like “being the bigger person.” But if it quietly agrees with disorder, it is not [Dharma](/posts/steady-wisdom-in-stressful-moments/).
 
 Consider the difference, A reactive boundary says:
 
