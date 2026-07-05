@@ -56,7 +56,7 @@ The most important part of OM may be the **silence** after the sound. After **A*
 
 ## OM and Bhagavad Gita
 
-The *Bhagavad Gita* mentions OM as a sacred syllable connected with Brahman, the Absolute. Krishna teaches that one who chants OM while remembering the Supreme moves toward the highest goal. This is important because it reminds us that chanting is not meant to be empty sound. It is in remembering what is deepest while living life.
+The *Bhagavad Gita* mentions OM as a sacred syllable connected with Brahman, the Absolute. Krishna teaches that one who chants OM while remembering the Supreme, moves toward the highest goal. This is important because it reminds us that chanting is not meant to be empty sound. It is in remembering what is deepest while living life.
 
 ## Learning
 

@@ -11,7 +11,7 @@ description: "Difference between acting from authenticity versus expectation."
 
 ## Witness Consciousness
 
-**Witness Consciousness** or **Sakshi Bhava**: The part of you that can step back and observe your own thoughts, emotions, and reactions without getting caught up in them. It's like being the audience watching a movie of your own mind. You see everything happening
+**Witness Consciousness** or **Sakshi Bhava** or **Atman**: The part of you that can step back and observe your own thoughts, emotions, and reactions without getting caught up in them. It's like being the audience watching a movie of your own mind. You see everything happening
 but you do not have to become fully consumed by the drama.
 
 Instead of saying:
