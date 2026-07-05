@@ -2,7 +2,7 @@
 title: "Intuition, Ego, or Witness Consciousness?"
 date: 2026-04-18 09:00:00 +0800
 categories: [Philosophical Reflections]
-tags: [the-bhagavad-gita, upanishads, manas, intuition, ego, witness-consciousness, authentic-action]
+tags: [the-bhagavad-gita, upanishad, manas, intuition, ego, witness-consciousness, authentic-action]
 description: "A reflection on intuition, gut feeling, and how to distinguish between egoic urgency and the quiet guidance of Witness Consciousness."
 ---
 
