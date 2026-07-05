@@ -21,7 +21,7 @@ But this sentence already contains the mistake. It assumes the Self is somewhere
 
 ## The Geographical Error
 
-The *Upanishads* invits us to see the error clearly. If you are trying to reach the [Atman]([Witness Consciousness](/posts/witness-consciousness-and-authentic-action/)), you are treating your own Consciousness like a distant city. But the Atman is not a location, it is the Witness of every location, object, and experience. **You cannot walk toward your own feet. You are already standing on them**.
+The *Upanishads* invits us to see the error clearly. If you are trying to reach the [Atman](/posts/witness-consciousness-and-authentic-action/), you are treating your own Consciousness like a distant city. But the Atman is not a location, it is the Witness of every location, object, and experience. **You cannot walk toward your own feet. You are already standing on them**.
 
 ## The Seer
 
