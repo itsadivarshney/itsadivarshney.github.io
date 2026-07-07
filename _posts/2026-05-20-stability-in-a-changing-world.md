@@ -3,7 +3,7 @@ title: "Stability in The Changing World"
 date: 2026-05-20 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, impermanence, atman, change, equanimity]
-description: "A reflection on why true stability is not found by controlling change,but by anchoring in the unchanging Witness within."
+description: "A reflection on why true stability is not found by controlling change but by anchoring in the unchanging Witness within."
 ---
 
 > Why does our pursuit of stability often leave us most exposed to the storms of life?
@@ -11,11 +11,11 @@ description: "A reflection on why true stability is not found by controlling cha
 
 ## Impermanence
 
-Everything we experience through the senses changes.
+Everything we experience through our senses changes.
 
 > What we see changes. What we touch changes. What we hear changes. What we taste changes. What we smell changes. Relationships shift. Vacations end. Career highs fade. Achievements become normal. Even the emotional intensity of grief, excitement, success, and disappointment changes over time.
 
-The problem is not that life changes rather the problem is that *we expect changing things to provide permanent stability*. The emotional breakdown usually comes when we mistake a passing experience for a final destination.
+The problem is not that life changes rather the problem is that *we expect changing things to provide permanent stability*. The emotional breakdown we feel usually comes when we mistake a passing experience for the final destination.
 
 ## The Gita’s Teaching
 
@@ -40,7 +40,7 @@ But this is impossible, the material world is dynamic by nature. Trying to deman
 
 ## Learning
 
-The world will not stop changing so that we can feel safe. The question is whether we will keep demanding permanence from what was never permanent. The stable point is not the event. True stability is found by anchoring in the [Witness Consciousness](/posts/witness-consciousness-and-authentic-action/) within. You adapt because the scenery changes but you remain steady because the traveler within is not the scenery.
+The world will not stop changing so that we can feel safe. True stability is found by anchoring in the [Witness Consciousness](/posts/witness-consciousness-and-authentic-action/) within. You adapt because the scenery changes but you remain steady because the traveler within is not the scenery.
 
 ## Food for Thought
 
