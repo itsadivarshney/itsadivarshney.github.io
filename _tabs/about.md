@@ -11,12 +11,12 @@ By day, I work as a business architecture consultant at Accenture Hong Kong, foc
 
 During my time at CUHK, I wanted to build more than just technical systems; I wanted to build community. Serving as the Founder and President of the International Student Association of S.H. Ho College (SHHOISA) was a defining chapter for me that allowed me to connect with diverse minds and create a sense of home for students from all over the world.
 
-<img src="/assets/img/shho-flag-bearer.jpeg" width="65%" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
-<p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">Flag bearer for the high table dinner as Founder & President of SHHOISA</p>
+<img src="/assets/img/shho-flag-bearer.jpeg" alt="Flag bearer for the high table dinner as Founder and President of ISA" width="65%" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+<p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">Flag bearer for the High Table Dinner as Founder & President of SHHOISA</p>
 
 The hunger for exploration eventually took me to the University of Cambridge for an entrepreneurship training program. Whether navigating an intensive business framework or literally navigating the river while punting, I’ve always believed that learning happens best when you fully immerse yourself in the environment. 
 
-<img src="/assets/img/cambridge-punting.jpeg" width="65%" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+<img src="/assets/img/cambridge-punting.jpeg" alt="Punting during my time at the University of Cambridge" width="65%" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
 <p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">Punting during my time at the University of Cambridge</p>
 
 When I step away from the professional world, I channel that same curiosity into rhythm and motion, whether I’m playing the drums, staying agile on the badminton court, or traveling as an absolute foodie looking for the next great local vegetarian dish.
@@ -30,7 +30,7 @@ This website serves as an archive for my deepest passion: exploring systems of t
 
 One of my greatest joys today is returning to where it all started. Coming back home to S.H. Ho College as an alumnus to share experiences and speak with the incoming freshmen international students reminds me of why I started writing and building in the first place: to pass on the torch and help others navigate their own journeys.
 
-<img src="/assets/img/shho-alumni-sharing.jpeg" width="65%" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
-<p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">Sharing experiences with freshman international students as an alumnus at S.H. Ho Colleg, CUHK</p>
+<img src="/assets/img/shho-alumni-sharing.jpeg" alt="Sharing experiences with freshman international students as an alumnus at S.H. Ho College" width="65%" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+<p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">Sharing experiences with freshman international students as an alumnus at S.H. Ho College, CUHK</p>
 
 Whether you are here for the philosophical reflections or the technical writings, I’m glad you stopped by. Feel free to reach out and say hello!
