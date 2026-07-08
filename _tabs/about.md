@@ -21,9 +21,14 @@ The hunger for exploration eventually took me to the University of Cambridge for
 
 When I step away from the professional world, I channel that same curiosity into rhythm and motion, whether I’m playing the drums, staying agile on the badminton court, or traveling as an absolute foodie looking for the next great local vegetarian dish.
 
+<video controls playsinline style="max-height: 500px; border-radius: 8px; display: block; margin: 20px auto 5px auto;">
+  <source src="/assets/img/playing-drums.mp4" type="video/mp4">
+</video>
+<p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">State of flow on the drums :D</p>
+
 This website serves as an archive for my deepest passion: exploring systems of the mind and soul. I am deeply drawn to Vedic philosophy, particularly the timeless teachings of the Bhagavad Gita and the Upanishads. Here, I write about the intersection of ancient wisdom and modern psychology. Much like the subtle, invisible essence within a banyan tree seed that holds the blueprint for a massive tree, I believe there is an "architecture of potential" hidden within our daily actions. My goal is to synthesize these complex concepts into practical, inspiring reflections that help us find inner stillness.
 
-<video autoplay loop muted playsinline style="border-radius: 8px; display: block; margin: 20px auto 5px auto;">
+<video width="100%" controls playsinline style="border-radius: 8px; display: block; margin: 20px auto 5px auto;">
   <source src="/assets/img/sea-water-rocks.mp4" type="video/mp4">
 </video>
 <p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">Capturing a moment of stillness</p>
