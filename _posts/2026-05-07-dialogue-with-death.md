@@ -1,5 +1,5 @@
 ---
-title: "Dialogue with Death"
+title: "What an Ancient Dialogue with Death Teaches Us About Life"
 date: 2026-05-07 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [upanishad, nachiketa, atman, death, om]

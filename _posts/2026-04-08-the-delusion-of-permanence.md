@@ -1,5 +1,5 @@
 ---
-title: "The Delusion of Permanence"
+title: "Finding Grace in an Ever-Changing World"
 date: 2026-04-08 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, moha, raga, dvesha, witness-consciousness, non-attachment]

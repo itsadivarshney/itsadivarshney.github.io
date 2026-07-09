@@ -1,5 +1,5 @@
 ---
-title: "Your North Star and the Symphony of Time"
+title: "Aligning Your Purpose with the Rhythm of Life"
 date: 2026-04-16 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, svadharma, north-star, karmasu-kaushalam, witness-consciousness, flow-state]

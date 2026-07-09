@@ -1,5 +1,5 @@
 ---
-title: "Intuition, Ego, or Witness Consciousness?"
+title: "Distinguishing Quiet Guidance from the Urgency of Ego"
 date: 2026-04-18 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, upanishad, manas, intuition, ego, witness-consciousness, authentic-action]

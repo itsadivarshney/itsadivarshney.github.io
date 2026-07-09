@@ -1,5 +1,5 @@
 ---
-title: "The Giver and the Receiver"
+title: "The Beautiful Dance of Generosity"
 date: 2026-05-03 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, upanishad, seva, atman, equal-vision, selfless-service]

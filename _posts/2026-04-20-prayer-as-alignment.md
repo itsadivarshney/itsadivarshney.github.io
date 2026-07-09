@@ -1,5 +1,5 @@
 ---
-title: "Prayer as Alignment"
+title: "Prayer as a Tuning Fork for the Soul"
 date: 2026-04-20 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, prayer, buddhi-yoga, sakama-bhakti, nishkama-bhakti, sharanagati, ishvara]

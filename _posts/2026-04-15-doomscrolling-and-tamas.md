@@ -1,5 +1,5 @@
 ---
-title: "Doomscrolling"
+title: "Escaping the Exhausting Grip of the Digital Scroll"
 date: 2026-04-15 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, doomscrolling, tamas, rajas, buddhi, attention]

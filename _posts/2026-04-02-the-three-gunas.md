@@ -1,5 +1,5 @@
 ---
-title: "The Three Gunas and The Golden Ego"
+title: "Moving Beyond the Traps of the Ego"
 date: 2026-04-02 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, gunas, sattva, rajas, tamas, golden-ego]

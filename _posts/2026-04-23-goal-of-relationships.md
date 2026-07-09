@@ -1,5 +1,5 @@
 ---
-title: "Goal of Relationships"
+title: "The Purpose of Human Relationships"
 date: 2026-04-23 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [upanishad, relationships, love, witness-consciousness, wholeness, purnamadah-purnamidam]

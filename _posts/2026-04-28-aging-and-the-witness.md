@@ -1,5 +1,5 @@
 ---
-title: "Aging and The Witness"
+title: "Gracefully Embracing the Seasons of Life"
 date: 2026-04-28 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, upanishad, aging, prakriti, witness-consciousness]

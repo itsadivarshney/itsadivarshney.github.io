@@ -1,5 +1,5 @@
 ---
-title: "Destiny and Conscious Choice"
+title: "Finding Conscious Choice Within the Web of Destiny"
 date: 2026-04-26 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, upanishad, prarabdha-karma, kshetra, relationships, love]

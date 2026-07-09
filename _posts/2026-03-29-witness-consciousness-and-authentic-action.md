@@ -1,5 +1,5 @@
 ---
-title: "Witness Consciousness and Authentic Action"
+title: "The Power of Stepping Back into Authentic Action"
 date: 2026-03-29 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, witness-consciousness, authentic-action]

@@ -1,5 +1,5 @@
 ---
-title: "Boundaries as Compassion"
+title: "How Setting Boundaries is an Act of Love"
 date: 2026-04-09 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, boundaries, dharma, samatvam, love]

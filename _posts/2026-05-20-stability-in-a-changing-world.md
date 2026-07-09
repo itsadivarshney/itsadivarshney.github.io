@@ -1,5 +1,5 @@
 ---
-title: "Stability in The Changing World"
+title: "Finding Stability in the Changing World"
 date: 2026-05-20 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, impermanence, atman, change, equanimity]

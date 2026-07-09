@@ -1,5 +1,5 @@
 ---
-title: "Authentic Action in the Attention Economy"
+title: "Staying True to Yourself When Everyone is Watching"
 date: 2026-04-14 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, authentic-action, attention-economy, lokasamgraha, samatvam, phala]

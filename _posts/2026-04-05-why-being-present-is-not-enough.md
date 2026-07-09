@@ -1,5 +1,5 @@
 ---
-title: "Why Being Present Is Not Enough"
+title: "Engaging Deeply Beyond Basic Mindfulness"
 date: 2026-04-05 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, svadharma, dharma, present]

@@ -1,5 +1,5 @@
 ---
-title: "The Subtle Essence Within"
+title: "Unlocking Your Infinite Potential"
 date: 2026-05-06 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [upanishad, atman, brahman, sat, tat-tvam-asi]

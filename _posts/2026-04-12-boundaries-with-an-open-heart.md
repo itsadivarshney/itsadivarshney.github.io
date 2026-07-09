@@ -1,5 +1,5 @@
 ---
-title: "Boundaries With an Open Heart"
+title: "Protecting Your Peace Without Closing Your Heart"
 date: 2026-04-12 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, boundaries, samatvam, buddhi, dharma, love, witness-consciousness, authentic-action]

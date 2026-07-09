@@ -1,5 +1,5 @@
 ---
-title: "The Digital Panopticon, The Field, The Knower of The Field"
+title: "Reclaiming Your Mind in a Hyper-Connected World"
 date: 2026-04-06 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, the-field, the-knower-of-the-field, witness-consciousness, digital-panopticon, ego]

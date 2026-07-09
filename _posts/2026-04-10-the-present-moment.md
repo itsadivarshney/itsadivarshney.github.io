@@ -1,5 +1,5 @@
 ---
-title: "The Present Moment"
+title: "Embracing the Gift of Now"
 date: 2026-04-10 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, prakriti, authentic-action, witness-consciousness]

@@ -1,5 +1,5 @@
 ---
-title: "Action, Fire, Smoke, Svadharma"
+title: "Finding Your True Purpose in the Heat of Action"
 date: 2026-04-01 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, witness-consciousness, authentic-action]

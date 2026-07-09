@@ -1,5 +1,5 @@
 ---
-title: "Silence as a Discipline"
+title: "The Quiet Strength of Intentional Silence"
 date: 2026-03-31 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, silence, witness-consciousness, authentic-action]

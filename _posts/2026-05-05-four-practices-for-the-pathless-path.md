@@ -1,5 +1,5 @@
 ---
-title: "Four Practices for the Pathless Path"
+title: "Simple Daily Habits for Inner Growth"
 date: 2026-05-05 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [upanishad, the-bhagavad-gita, atman, witness-consciousness, authentic-action, gunas]

@@ -1,5 +1,5 @@
 ---
-title: "The Pathless Path to the Self"
+title: "The Journey Back to Who You Really Are"
 date: 2026-05-04 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [upanishad, atman, self-realization, witness-consciousness]

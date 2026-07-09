@@ -1,5 +1,5 @@
 ---
-title: "Waking From the Dream of Separation"
+title: "Seeing the Everyday World as a Vibration of the Infinite"
 date: 2026-04-29 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [upanishad, dream, brahman, witness-consciousness]

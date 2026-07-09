@@ -1,5 +1,5 @@
 ---
-title: "The North Star and Witness Consciousness"
+title: "Finding Your Inner Compass"
 date: 2026-04-07 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, prakriti, purusha, witness-consciousness, authentic-action, career]

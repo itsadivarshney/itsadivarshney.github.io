@@ -1,5 +1,5 @@
 ---
-title: "Wisdom and Politeness"
+title: "True Wisdom Does Not Always Need to Be Polite"
 date: 2026-04-21 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, witness-consciousness, prakriti, loka-sangraha, wisdom, politeness, samskaras]

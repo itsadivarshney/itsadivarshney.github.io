@@ -1,5 +1,5 @@
 ---
-title: "At The Time of Death"
+title: "How Lifelong Habits Shape the Moment of Death"
 date: 2026-05-01 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, death, consciousness, antya-mati, om]

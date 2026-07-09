@@ -1,5 +1,5 @@
 ---
-title: "A Quiet Friday Night"
+title: "How a Quiet Friday Night Turns the Mind into a Friend"
 date: 2026-05-16 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, solitude, mind, self-mastery, inner-peace, dhyana-yoga]

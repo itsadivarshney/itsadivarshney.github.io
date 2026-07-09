@@ -1,5 +1,5 @@
 ---
-title: "The Passenger and the Driver"
+title: "Discovering Who is Actually Steering Your Life"
 date: 2026-04-11 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, upanishad, prakriti, authentic-action, witness-consciousness]

@@ -1,5 +1,5 @@
 ---
-title: "Burnout and the Weight of Results"
+title: "Finding Freedom from the Need to Succeed"
 date: 2026-04-13 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, burnout, karma-yoga, authentic-action, samatvam, kartrtva]

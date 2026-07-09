@@ -1,5 +1,5 @@
 ---
-title: "Life as a Symphony"
+title: "Playing Your Unique Part in the Grand Design"
 date: 2026-04-19 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, nimitta-matram, ishvara, flow]

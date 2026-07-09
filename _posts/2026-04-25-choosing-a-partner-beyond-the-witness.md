@@ -1,5 +1,5 @@
 ---
-title: "Choosing a Partner"
+title: "The Hidden Inner Forces That Shape Our Relationships"
 date: 2026-04-25 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, relationships, love, witness-consciousness, gunas, purushartha, svadharma]

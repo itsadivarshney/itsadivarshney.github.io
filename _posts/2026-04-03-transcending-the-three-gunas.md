@@ -1,5 +1,5 @@
 ---
-title: "Transcending The Three Gunas"
+title: "Rising Above the Noise of Daily Life"
 date: 2026-04-03 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, gunas, trigunatita, witness-consciousness]

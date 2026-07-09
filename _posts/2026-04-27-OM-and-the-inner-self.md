@@ -1,5 +1,5 @@
 ---
-title: "OM ॐ and The Inner Self"
+title: "Tapping Into the Universal Rhythm of OM ॐ"
 date: 2026-04-27 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [upanishad, the-bhagavad-gita, om, atman, meditation]

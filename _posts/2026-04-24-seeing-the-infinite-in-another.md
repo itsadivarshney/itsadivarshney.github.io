@@ -1,5 +1,5 @@
 ---
-title: "Seeing the Infinite in Another"
+title: "Recognizing the Depth in Every Person You Meet"
 date: 2026-04-24 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [upanishad, brahman, witness-consciousness, relationships, love, purnamadah-purnamidam]

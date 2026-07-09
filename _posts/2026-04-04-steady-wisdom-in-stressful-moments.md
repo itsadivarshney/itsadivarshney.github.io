@@ -1,5 +1,5 @@
 ---
-title: "Steady Wisdom in Stressful Moments"
+title: "Cultivating Calm When the Pressure is On"
 date: 2026-04-04 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, dharma, witness-consciousness, steady-wisdom]

@@ -1,5 +1,5 @@
 ---
-title: "Simple Living and Non-Attachment"
+title: "The Joy of Simple Living"
 date: 2026-05-02 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, upanishad, simplicity, non-attachment, atman, moksha]

@@ -1,5 +1,5 @@
 ---
-title: "The Austerity of Speech"
+title: "The Transformative Power of Mindful Speech"
 date: 2026-04-22 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, truthful-speech, vachas-tapas, satyam, anudvega-karam, priya-hitam]

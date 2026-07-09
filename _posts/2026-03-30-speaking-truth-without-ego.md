@@ -1,5 +1,5 @@
 ---
-title: "Speaking The Truth"
+title: "The Courage of Honest Words"
 date: 2026-03-30 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, truthful-speech, witness-consciousness, authentic-action]

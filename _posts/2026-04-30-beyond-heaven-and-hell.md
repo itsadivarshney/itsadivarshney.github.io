@@ -1,5 +1,5 @@
 ---
-title: "Beyond Heaven and Hell"
+title: "Finding True Freedom Beyond Heaven and Hell"
 date: 2026-04-30 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, upanishad, samsara, moksha, svarga, karma]

@@ -1,5 +1,5 @@
 ---
-title: "The Ocean Mind"
+title: "Cultivating Depths That Cannot Be Disturbed"
 date: 2026-05-13 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, upanishad, peace, purnatva, ocean, self-mastery]
