@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, peace, nature, ocean]
 description: "A reflection on becoming like the ocean that remains steady even when the rivers of life flow into it."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/42.jpeg" alt="photo for post 42" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > We usually think peace is something we get from a quiet place.
 >
 > But what if quiet places do not create peace, and instead help us remember the stillness that was already present beneath the noise?

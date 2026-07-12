@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, gunas, sattva, rajas, tamas, golden-ego]
 description: "A reflection on the three Gunas and how even goodness can become a subtle form of ego."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/5.jpeg" alt="photo for post 5" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If “speaking the truth” and “doing the right thing” are tools, then what are we building with them?
 {: .prompt-tip }
 

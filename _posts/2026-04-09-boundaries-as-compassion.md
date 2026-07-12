@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, boundaries, dharma, samatvam, love]
 description: "A reflection on why saying 'no' can sometimes be the most compassionate form of Dharma."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/12.jpeg" alt="photo for post 12" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Is it possible to love someone so much that your most compassionate act is to finally tell them “No”?
 {: .prompt-tip }
 

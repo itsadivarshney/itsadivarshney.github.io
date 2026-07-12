@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, the-field, the-knower-of-the-field, witness-consciousn
 description: "A reflection on the Panopticon and the Gita’s distinction between the Field and the Knower of the Field."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/9.jpeg" alt="photo for post 9" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Why does it sometimes feel that the more we are seen by the world, the more we are disappearing?
 {: .prompt-tip }
 

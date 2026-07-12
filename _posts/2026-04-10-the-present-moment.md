@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, prakriti, authentic-action, witness-consciousness]
 description: "A reflection on whether we are bound by our past."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/13.jpeg" alt="photo for post 13" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Are we the sum total of all our historical actions or is the present moment a legitimate reset that allows for a radical departure from everything we have been?
 {: .prompt-tip }
 

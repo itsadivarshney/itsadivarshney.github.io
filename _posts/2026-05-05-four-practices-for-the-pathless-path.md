@@ -6,6 +6,8 @@ tags: [upanishad, the-bhagavad-gita, atman, witness-consciousness, authentic-act
 description: "Four practical ways to reduce false identification with body, mind, roles, and outcomes while recognizing the Witness Consciousness."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/38.jpeg" alt="photo for post 38" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If the search for Moksha was partly a game of hide-and-seek with yourself then would you still be anxious about finding the truth?
 {: .prompt-tip }
 

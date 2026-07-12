@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, dharma, witness-consciousness, steady-wisdom]
 description: "A reflection on Dharma and choosing a conscious response instead of an ego reaction."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/7.jpeg" alt="photo for post 7" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > When the pressure is on, are your words serving the truth or are they just serving your survival?
 {: .prompt-tip }
 

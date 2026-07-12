@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, relationships, love, witness-consciousness, gunas, pur
 description: "A reflection on how Gunas, Dharma, and human effort shape relationship choices."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/28.jpeg" alt="photo for post 28" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If everyone has the same Witness Consciousness within them then should every person be a perfect match?
 {: .prompt-tip }
 

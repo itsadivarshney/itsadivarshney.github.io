@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, upanishad, prarabdha-karma, kshetra, relationships, lo
 description: "A reflection on whether destined relationships make us puppets of the Divine or whether Karma creates the field in which conscious choice becomes possible."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/29.jpeg" alt="photo for post 29" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If a relationship is already planned then does this make you a puppet of the Divine?
 {: .prompt-tip }
 

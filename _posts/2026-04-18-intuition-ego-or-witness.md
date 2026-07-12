@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, upanishad, manas, intuition, ego, witness-consciousnes
 description: "A reflection on intuition, gut feeling, and how to distinguish between egoic urgency and the quiet guidance of Witness Consciousness."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/21.jpeg" alt="photo for post 21" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Have you tried to reflect on where your gut feeling or intuition actually comes from?
 {: .prompt-tip }
 

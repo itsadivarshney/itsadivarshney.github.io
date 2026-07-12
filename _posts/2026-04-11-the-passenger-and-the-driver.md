@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, upanishad, prakriti, authentic-action, witness-conscio
 description: "A reflection on the horse chariot metaphor."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/14.jpeg" alt="photo for post 14" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If the True Self is a silent observer, who is actually steering the car?
 {: .prompt-tip }
 

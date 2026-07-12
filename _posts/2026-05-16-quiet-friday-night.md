@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, loneliness, solitude, mind, self-mastery]
 description: "A reflection on how choosing quiet time can train the mind to become a friend rather than an enemy."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/43.jpeg" alt="photo for post 43" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > What if choosing to spend a Friday night alone is not a sign that you lack a social life but a conscious decision to reclaim your mind?
 {: .prompt-tip }
 

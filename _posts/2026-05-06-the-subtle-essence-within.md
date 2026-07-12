@@ -6,6 +6,8 @@ tags: [upanishad, atman, brahman, sat, tat-tvam-asi]
 description: "A reflection on the Upanishad’s banyan seed teaching."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/39.jpeg" alt="photo for post 39" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If a massive banyan tree emerges from a tiny seed whose core appears empty then is your true power found in what can be seen or in what cannot be seen?
 {: .prompt-tip }
 

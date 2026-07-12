@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, gunas, trigunatita, witness-consciousness]
 description: "A reflection on what it means to transcend Sattva, Rajas, and Tamas through Witness Consciousness."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/6.jpeg" alt="photo for post 6" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If being “Sattvic” is not the final goal, then what is?
 {: .prompt-tip }
 

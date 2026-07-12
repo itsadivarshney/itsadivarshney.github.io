@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, witness-consciousness, authentic-action]
 description: "Difference between acting from authenticity versus expectation."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/1.jpeg" alt="photo for post 1" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Ever noticed the difference between saying something kind because you genuinely mean it versus saying something kind because you are hoping for a particular response?
 {: .prompt-tip }
 

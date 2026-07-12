@@ -6,6 +6,8 @@ tags: [upanishad, dream, brahman, witness-consciousness]
 description: "A reflection on waking and dreaming."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/32.jpeg" alt="photo for post 32" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > When you wake up from a dream, the dream-world vanishes. When you wake up from “real life,” what happens to the world?
 {: .prompt-tip }
 

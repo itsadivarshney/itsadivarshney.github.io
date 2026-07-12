@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, truthful-speech, witness-consciousness, authentic-acti
 description: "Difference between speaking from ego versus care."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/2.jpeg" alt="photo for post 2" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Have you ever wondered why “I won’t tell a lie” sometimes feels easier than “I will speak the truth”?
 {: .prompt-tip }
 

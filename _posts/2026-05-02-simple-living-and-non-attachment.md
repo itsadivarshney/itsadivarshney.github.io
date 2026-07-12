@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, upanishad, simplicity, non-attachment, atman, moksha]
 description: "A reflection on how reducing attachment helps the mind turn toward the Self."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/35.jpeg" alt="photo for post 35" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Is there a practical way to stop being so fixated on the material world?
 {: .prompt-tip }
 

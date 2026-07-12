@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, truthful-speech, vachas-tapas, satyam, anudvega-karam,
 description: "A reflection on whether radical honesty is spiritual courage or simply a shortcut that avoids the discipline of compassionate speech."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/25.jpeg" alt="photo for post 25" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Is “radical honesty” or being “brutally truthful” a spiritual shortcut?
 {: .prompt-tip }
 

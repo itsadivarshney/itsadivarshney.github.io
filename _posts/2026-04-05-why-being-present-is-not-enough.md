@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, svadharma, dharma, present]
 description: "A reflection on how Svadharma helps guide right action."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/8.jpeg" alt="photo for post 8" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If being present helps us see clearly, then what tells us where to go?
 {: .prompt-tip }
 

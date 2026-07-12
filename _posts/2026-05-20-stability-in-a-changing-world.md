@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, impermanence, witness-consciousness, change, stability
 description: "A reflection on why true stability is not found by controlling change but by anchoring in the unchanging Witness within."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/44.jpeg" alt="photo for post 44" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Why does our pursuit of stability often leave us most exposed to the storms of life?
 {: .prompt-tip }
 

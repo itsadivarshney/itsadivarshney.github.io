@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, svadharma, north-star, karmasu-kaushalam, witness-cons
 description: "A reflection on how life becomes less like a race and more like a symphony when we align with our true nature."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/19.jpeg" alt="photo for post 19" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If we started treating life as a symphony to be played, would the passing of time feel like a loss, or would it feel like the rhythm that makes the music possible?
 {: .prompt-tip }
 

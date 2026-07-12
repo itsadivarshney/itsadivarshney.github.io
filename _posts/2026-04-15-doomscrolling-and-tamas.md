@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, doomscrolling, tamas, rajas, buddhi, attention]
 description: "A reflection on doomscrolling."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/18.jpeg" alt="photo for post 18" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Why do we find it easier to stare into the abyss of a digital feed than to face the silence of our own potential?
 {: .prompt-tip }
 

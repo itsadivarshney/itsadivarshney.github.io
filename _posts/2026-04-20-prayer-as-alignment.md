@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, prayer, buddhi-yoga, sakama-bhakti, nishkama-bhakti, s
 description: "A reflection on prayer as inner alignment rather than a transaction."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/23.jpeg" alt="photo for post 23" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Is prayer a way to get what you want or a way to become who you were meant to be?
 {: .prompt-tip }
 

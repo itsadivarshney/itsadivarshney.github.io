@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, prakriti, purusha, witness-consciousness, authentic-ac
 description: "A reflection on pursuing goals while remaining inwardly steady through the distinction between Prakriti and Purusha."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/10.jpeg" alt="photo for post 10" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > How can you pursue a “North Star” with total intensity while remaining perfectly still at your core?
 {: .prompt-tip }
 

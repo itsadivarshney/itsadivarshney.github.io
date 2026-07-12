@@ -6,6 +6,8 @@ tags: [upanishad, atman, self-realization, witness-consciousness]
 description: "A reflection on Self-realization."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/37.jpeg" alt="photo for post 37" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If the final destination of realization is your own Self then what is the path to get there?
 >
 > Can you walk towards your own feet?

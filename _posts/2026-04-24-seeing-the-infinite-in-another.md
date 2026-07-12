@@ -6,6 +6,8 @@ tags: [upanishad, brahman, witness-consciousness, relationships, love, purnamada
 description: "A reflection on the Upanishadic idea of seeing beyond personality and recognizing the deeper Self within another person."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/27.jpeg" alt="photo for post 27" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > What does it mean to catch a glimpse of the Infinite through the window of another person?
 {: .prompt-tip }
 

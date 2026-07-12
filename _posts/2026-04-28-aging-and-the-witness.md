@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, upanishad, aging, prakriti, witness-consciousness]
 description: "A reflection on aging, the changing body, and the unchanging Witness that observes every stage of life."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/31.jpeg" alt="photo for post 31" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If the Self was never born and will never die, why do gray hairs in the mirror still unsettle us?
 {: .prompt-tip }
 

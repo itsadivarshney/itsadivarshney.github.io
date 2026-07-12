@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, burnout, karma-yoga, authentic-action, samatvam, kartr
 description: "A reflection on burnout and our attachment to outcomes."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/16.jpeg" alt="photo for post 16" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Does your exhaustion come from the hours you put in or from the weight of the future you are trying to carry?
 {: .prompt-tip }
 

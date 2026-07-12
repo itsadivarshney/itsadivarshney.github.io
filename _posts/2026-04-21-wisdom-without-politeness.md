@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, witness-consciousness, prakriti, loka-sangraha, wisdom
 description: "A reflection on whether wisdom must always appear polite."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/24.jpeg" alt="photo for post 24" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Does an enlightened soul always come wrapped in a polite personality?
 {: .prompt-tip }
 

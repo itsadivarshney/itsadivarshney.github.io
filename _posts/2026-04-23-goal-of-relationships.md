@@ -6,6 +6,8 @@ tags: [upanishad, relationships, love, witness-consciousness, wholeness, purnama
 description: "A reflection on the Upanishadic idea that love points us back to the Self."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/26.jpeg" alt="photo for post 26" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Have you ever wondered what the goal of a successful relationship is?
 {: .prompt-tip }
 

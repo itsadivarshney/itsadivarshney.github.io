@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, upanishad, samsara, moksha, svarga, karma]
 description: "A reflection on why liberation is not about earning a better destination but ending the cycle of desire."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/33.jpeg" alt="photo for post 33" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Have you reflected on Heaven and Hell not as final destinations, but as temporary stations within a much larger journey?
 {: .prompt-tip }
 

@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, authentic-action, attention-economy, lokasamgraha, sam
 description: "A reflection on practicing action without attachment."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/17.jpeg" alt="photo for post 17" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Can Authentic Action survive today’s attention economy?
 {: .prompt-tip }
 

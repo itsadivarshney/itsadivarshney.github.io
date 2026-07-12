@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, death, consciousness, antya-mati, om]
 description: "A reflection on how the final state of consciousness is shaped by lifelong mental absorption."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/34.jpeg" alt="photo for post 34" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > How does our state of consciousness determine the next phase of life after death?
 {: .prompt-tip }
 

@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, nimitta-matram, ishvara, flow]
 description: "A reflection on allowing life to become less like a solo performance and more like a symphony."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/22.jpeg" alt="photo for post 22" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If you look at a violin resting in its case, you may recognize its beauty but you would not call it music. The music happens only when the instrument surrenders to the hands of a master.
 >
 > So, if your life is the song, who is actually holding the bow?

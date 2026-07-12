@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, upanishad, seva, atman, equal-vision, selfless-service
 description: "A reflection on how selfless service dissolves the egoic separation between giver and receiver."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/36.jpeg" alt="photo for post 36" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If the Divine is present in both the one who serves and the one being served then who is truly the giver and who is truly the receiver?
 {: .prompt-tip }
 

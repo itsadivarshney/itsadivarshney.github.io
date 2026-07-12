@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, moha, raga, dvesha, witness-consciousness, non-attachm
 description: "A reflection on why suffering often begins when we mistake the temporary for the permanent."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/11.jpeg" alt="photo for post 11" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > What if much of our suffering comes from treating temporary things as though they were meant to last forever?
 {: .prompt-tip }
 

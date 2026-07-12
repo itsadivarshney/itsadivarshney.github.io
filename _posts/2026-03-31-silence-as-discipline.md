@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, silence, witness-consciousness, authentic-action]
 description: "Difference between avoidance and disciplined restraint."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/3.jpeg" alt="photo for post 3" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If “speaking the truth” is a higher discipline than simply “not lying,” where does silence fit in?
 {: .prompt-tip }
 

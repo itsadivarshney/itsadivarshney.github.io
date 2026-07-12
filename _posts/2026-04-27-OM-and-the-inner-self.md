@@ -6,6 +6,8 @@ tags: [upanishad, the-bhagavad-gita, om, atman, meditation]
 description: "A reflection on how chanting OM ॐ can help us turn inward toward the deeper Self."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/30.jpeg" alt="photo for post 30" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > What if chanting OM is not simply repeating a sacred sound but a way of returning attention to the Self that silently witnesses all experience?
 {: .prompt-tip }
 

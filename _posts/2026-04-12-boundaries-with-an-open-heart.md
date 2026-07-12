@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, boundaries, samatvam, buddhi, dharma, love, witness-co
 description: "A reflection on setting boundaries without closing the heart."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/15.jpeg" alt="photo for post 15" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > How do you set a boundary without closing your heart to someone?
 {: .prompt-tip }
 

@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, witness-consciousness, authentic-action]
 description: "A reflection on intention and acting according to the highest truth that we can see."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/4.jpeg" alt="photo for post 4" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If everyone has their own “truth” or version of what is “right,” how can any action be truly righteous?
 {: .prompt-tip }
 

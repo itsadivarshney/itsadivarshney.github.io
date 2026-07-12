@@ -6,6 +6,8 @@ tags: [the-bhagavad-gita, raga, pain, dharma]
 description: "A reflection on making difficult choices."
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/20.jpeg" alt="photo for post 20" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Should we treat the presence of pain as proof of a wrong choice or as the natural discomfort of the soul trying to reclaim its center?
 {: .prompt-tip }
 

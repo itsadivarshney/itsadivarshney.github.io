@@ -6,6 +6,8 @@ tags: [upanishads, the-bhagavad-gita, death, OM, witness-consciousness]
 description: "A reflection on Nachiketa’s dialogue with Yama"
 ---
 
+<img src="/assets/img/philosophical_reflections_photos/40.jpeg" alt="photo for post 40" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > If you must die to your ego to truly live then who is the “you” that survives the death?
 {: .prompt-tip }
 
