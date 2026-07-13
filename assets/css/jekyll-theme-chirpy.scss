@@ -122,3 +122,106 @@ h1, h2, h3, h4, h5, h6, .post-title {
     }
   }
 }
+
+/* Add space between each month block */
+.archive-month-wrapper {
+  margin-bottom: 1.25rem !important; /* Increase or decrease this number to get the perfect gap */
+}
+
+/* =========================================================
+   PREMIUM HYBRID SYSTEM (ISOLATED LIGHT PURPLE / DARK GOLD)
+   ========================================================= */
+
+/* ---------------------------------------------------------
+   1. LIGHT MODE SYSTEM (Active ONLY when dark mode is off)
+   --------------------------------------------------------- */
+html:not([data-mode="dark"]) {
+  /* Force all links to Academic Purple */
+  a, 
+  .post-content a, 
+  #breadcrumb a,
+  .post-meta a,
+  .post-tags a {
+    color: #7D3F98 !important;
+    transition: color 0.15s ease-in-out;
+  }
+
+  /* Deeper purple for hover contrast */
+  a:hover, 
+  .post-content a:hover, 
+  #breadcrumb a:hover,
+  .post-meta a:hover,
+  .post-tags a:hover {
+    color: #5B2C73 !important;
+    text-decoration-color: #5B2C73 !important;
+  }
+
+  /* Sidebar Navigation & Table Of Contents highlights */
+  #sidebar .nav-item.active .nav-link,
+  #sidebar .nav-item.active .nav-link i,
+  .toc-link.is-active-link {
+    color: #7D3F98 !important;
+    border-left-color: #7D3F98 !important;
+  }
+
+  /* Repainting Prompt-Tips to Purple */
+  .prompt-tip, .alert-tip, .blockquote-tip, blockquote.prompt-tip {
+    border-left-color: #7D3F98 !important;
+    background-color: rgba(125, 63, 152, 0.06) !important;
+  }
+
+  .prompt-tip::before, 
+  .prompt-tip i,
+  .alert-tip::before,
+  .alert-tip i,
+  blockquote.prompt-tip::before {
+    color: #7D3F98 !important;
+  }
+}
+
+/* ---------------------------------------------------------
+   2. DARK MODE SYSTEM (Active ONLY when dark mode is turned on)
+   --------------------------------------------------------- */
+html[data-mode="dark"] {
+  /* Force all links to Academic Gold */
+  a, 
+  .post-content a, 
+  #breadcrumb a,
+  .post-meta a,
+  .post-tags a {
+    color: #C5A059 !important; 
+    transition: color 0.15s ease-in-out;
+  }
+
+  /* Lighter illuminating gold for dark mode hover state */
+  a:hover, 
+  .post-content a:hover, 
+  #breadcrumb a:hover,
+  .post-meta a:hover,
+  .post-tags a:hover {
+    color: #E5C283 !important;
+    text-decoration-color: #E5C283 !important;
+  }
+
+  /* Sidebar Navigation & Table Of Contents highlights */
+  #sidebar .nav-item.active .nav-link,
+  #sidebar .nav-item.active .nav-link i,
+  .toc-link.is-active-link {
+    color: #C5A059 !important;
+    border-left-color: #C5A059 !important;
+  }
+
+  /* Repainting Prompt-Tips to Gold */
+  .prompt-tip, .alert-tip, .blockquote-tip, blockquote.prompt-tip {
+    border-left-color: #C5A059 !important;
+    background-color: rgba(197, 160, 89, 0.12) !important;
+  }
+
+  .prompt-tip::before, 
+  .prompt-tip i,
+  .alert-tip::before,
+  .alert-tip i,
+  blockquote.prompt-tip::before {
+    color: #C5A059 !important;
+  }
+}

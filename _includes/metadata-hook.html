@@ -3,20 +3,38 @@
     // Generates the correct absolute path to your About page 
     const aboutUrl = "{{ '/about/' | relative_url }}";
     
-    // Find Chirpy's native profile elements
+    // 1. Sidebar Elements (Desktop View & Opened Mobile Menu)
     const avatarLink = document.getElementById('avatar');
-    const titleLink = document.querySelector('.site-title');
+    // Grabs the <a> inside the site-title class, or the class itself as a fallback
+    const sidebarTitleLink = document.querySelector('.site-title a') || document.querySelector('.site-title');
     
-    // Swap the targets seamlessly
+    // 2. Topbar Element (Mobile Sticky Header)
+    const mobileTopbarTitle = document.getElementById('site-title');
+    
+    // Update the Sidebar targets seamlessly
     if (avatarLink) avatarLink.href = aboutUrl;
-    if (titleLink) titleLink.href = aboutUrl;
+    if (sidebarTitleLink) sidebarTitleLink.href = aboutUrl;
+    
+    // Update the Mobile Topbar target
+    if (mobileTopbarTitle) {
+      if (mobileTopbarTitle.tagName === 'A') {
+        // If it is a standard link, simply update the destination
+        mobileTopbarTitle.href = aboutUrl;
+      } else {
+        // If Chirpy rendered it as a <span>, we can easily force it to act like a link!
+        mobileTopbarTitle.style.cursor = 'pointer';
+        mobileTopbarTitle.addEventListener('click', () => {
+          window.location.href = aboutUrl;
+        });
+      }
+    }
   });
 </script>
 
 
 {% if page.layout == 'post' %}
 <style>
-  /* --- PROGRESS BAR STYLING (Default Theme Colors) --- */
+  /* --- PROGRESS BAR BASE STYLING --- */
   #reading-progress-container {
     position: fixed;
     top: 0;
@@ -31,10 +49,19 @@
   #reading-progress-bar {
     width: 0%;
     height: 100%;
-    /* Reverts to Chirpy's default theme highlight color */
-    background-color: var(--toc-highlight) !important; 
-    box-shadow: 0 0 8px var(--toc-highlight);
     transition: width 0.1s ease-out;
+  }
+
+  /* --- LIGHT MODE ONLY COLOR (Purple) --- */
+  html:not([data-mode="dark"]) #reading-progress-bar {
+    background-color: #7D3F98 !important; 
+    box-shadow: 0 0 8px rgba(125, 63, 152, 0.6);
+  }
+
+  /* --- DARK MODE ONLY COLOR (Academic Gold) --- */
+  html[data-mode="dark"] #reading-progress-bar {
+    background-color: #C5A059 !important;
+    box-shadow: 0 0 8px rgba(197, 160, 89, 0.6);
   }
 </style>
 

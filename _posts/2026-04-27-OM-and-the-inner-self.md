@@ -2,7 +2,7 @@
 title: "Tapping Into the Universal Rhythm of OM ॐ"
 date: 2026-04-27 09:00:00 +0800
 categories: [Philosophical Reflections]
-tags: [upanishad, the-bhagavad-gita, om, atman, meditation]
+tags: [upanishad, the-bhagavad-gita, OM, atman, meditation]
 description: "A reflection on how chanting OM ॐ can help us turn inward toward the deeper Self."
 ---
 

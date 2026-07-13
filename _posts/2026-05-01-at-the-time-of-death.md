@@ -2,7 +2,7 @@
 title: "How Lifelong Habits Shape the Moment of Death"
 date: 2026-05-01 09:00:00 +0800
 categories: [Philosophical Reflections]
-tags: [the-bhagavad-gita, death, consciousness, antya-mati, om]
+tags: [the-bhagavad-gita, death, consciousness, antya-mati, OM]
 description: "A reflection on how the final state of consciousness is shaped by lifelong mental absorption."
 ---
 
