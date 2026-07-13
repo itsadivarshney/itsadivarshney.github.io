@@ -1,0 +1,71 @@
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    // Generates the correct absolute path to your About page 
+    const aboutUrl = "{{ '/about/' | relative_url }}";
+    
+    // Find Chirpy's native profile elements
+    const avatarLink = document.getElementById('avatar');
+    const titleLink = document.querySelector('.site-title');
+    
+    // Swap the targets seamlessly
+    if (avatarLink) avatarLink.href = aboutUrl;
+    if (titleLink) titleLink.href = aboutUrl;
+  });
+</script>
+
+
+{% if page.layout == 'post' %}
+<style>
+  /* --- PROGRESS BAR STYLING (Default Theme Colors) --- */
+  #reading-progress-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px; 
+    z-index: 999999 !important; 
+    pointer-events: none; 
+    background-color: transparent;
+  }
+
+  #reading-progress-bar {
+    width: 0%;
+    height: 100%;
+    /* Reverts to Chirpy's default theme highlight color */
+    background-color: var(--toc-highlight) !important; 
+    box-shadow: 0 0 8px var(--toc-highlight);
+    transition: width 0.1s ease-out;
+  }
+</style>
+
+<script>
+  /* --- PROGRESS BAR ENGINE --- */
+  document.addEventListener('DOMContentLoaded', () => {
+    if (document.getElementById('reading-progress-container')) return;
+
+    const container = document.createElement('div');
+    container.id = 'reading-progress-container';
+
+    const bar = document.createElement('div');
+    bar.id = 'reading-progress-bar';
+
+    container.appendChild(bar);
+    document.body.appendChild(container);
+
+    const calculateProgress = () => {
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      
+      if (docHeight > 0) {
+        const scrollPercent = (scrollTop / docHeight) * 100;
+        bar.style.width = `${Math.min(scrollPercent, 100)}%`;
+      }
+    };
+
+    window.addEventListener('scroll', calculateProgress, { passive: true });
+    window.addEventListener('resize', calculateProgress, { passive: true });
+    
+    calculateProgress();
+  });
+</script>
+{% endif %}
