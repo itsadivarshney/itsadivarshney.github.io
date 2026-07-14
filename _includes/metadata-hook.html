@@ -1,32 +1,50 @@
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
-    // Generates the correct absolute path to your About page 
-    const aboutUrl = "{{ '/about/' | relative_url }}";
+document.addEventListener('DOMContentLoaded', () => {
+  const aboutUrl = "{{ '/about/' | relative_url }}";
+
+  const redirectToAbout = (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    window.location.href = aboutUrl;
+  };
+
+  const configureAboutLink = (element) => {
+    if (!element) return;
     
-    // 1. Sidebar Elements (Desktop View & Opened Mobile Menu)
-    const avatarLink = document.getElementById('avatar');
-    // Grabs the <a> inside the site-title class, or the class itself as a fallback
-    const sidebarTitleLink = document.querySelector('.site-title a') || document.querySelector('.site-title');
+    // Find the actual anchor element
+    const anchor = element.tagName === 'A' ? element : (element.querySelector('a') || element);
     
-    // 2. Topbar Element (Mobile Sticky Header)
-    const mobileTopbarTitle = document.getElementById('site-title');
+    // Set the URL
+    anchor.setAttribute('href', aboutUrl);
+    anchor.style.cursor = 'pointer';
+
+    // Remove old listeners to prevent duplication
+    anchor.removeEventListener('click', redirectToAbout, true);
     
-    // Update the Sidebar targets seamlessly
-    if (avatarLink) avatarLink.href = aboutUrl;
-    if (sidebarTitleLink) sidebarTitleLink.href = aboutUrl;
+    // Add the "Capture" listener (the key to the fix)
+    anchor.addEventListener('click', redirectToAbout, true);
+  };
+
+  const runFix = () => {
+    const selectors = [
+      '#avatar', 
+      '#sidebar .site-title', 
+      '#site-title', 
+      '.site-title'
+    ];
     
-    // Update the Mobile Topbar target
-    if (mobileTopbarTitle) {
-      if (mobileTopbarTitle.tagName === 'A') {
-        mobileTopbarTitle.href = aboutUrl;
-      } else {
-        mobileTopbarTitle.style.cursor = 'pointer';
-        mobileTopbarTitle.addEventListener('click', () => {
-          window.location.href = aboutUrl;
-        });
-      }
-    }
-  });
+    selectors.forEach(sel => {
+      const el = document.querySelector(sel);
+      if (el) configureAboutLink(el);
+    });
+  };
+
+  // Initial run
+  runFix();
+
+  // Chirpy re-renders elements on mobile/dynamic load, so run this periodically
+  setInterval(runFix, 500); 
+});
 </script>
 
 {% if page.layout == 'post' %}
