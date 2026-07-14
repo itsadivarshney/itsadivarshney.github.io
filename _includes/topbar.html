@@ -1,73 +1,62 @@
-<!-- The Top Bar -->
-
 <header id="topbar-wrapper" class="flex-shrink-0" aria-label="Top Bar">
-  <div
-    id="topbar"
-    class="d-flex align-items-center justify-content-between px-lg-3 h-100"
-  >
-    <nav id="breadcrumb" aria-label="Breadcrumb">
-      {% if page.layout == 'post' %}
-        <!-- 1. Home Link -->
-        <span>
-          <a href="{{ '/' | relative_url }}">
-            {{- site.data.locales[include.lang].tabs.home | capitalize -}}
-          </a>
-        </span>
-        
-        <!-- 2. Main Categories Aggregator Link -->
-        <span>
-          <a href="{{ '/categories/' | relative_url }}">
-            {{- site.data.locales[include.lang].tabs.categories | default: 'Categories' | capitalize -}}
-          </a>
-        </span>
+  <div id="topbar" class="d-flex align-items-center justify-content-between px-lg-3 h-100">
 
-        <!-- 3. Dynamic Post Category Link(s) -->
-        {% if page.categories.size > 0 %}
-          {% for category in page.categories %}
-            {% capture category_url %}/categories/{{ category | slugify }}/{% endcapture %}
-            <span>
-              <a href="{{ category_url | relative_url }}">
-                {{ category }}
+    {% unless page.layout == 'home' %}
+      <nav id="breadcrumb" aria-label="Breadcrumb">
+
+        {% if page.layout == 'post' %}
+          {% assign parent_category = page.categories | first %}
+
+          {% if parent_category %}
+            {% assign parent_category_slug = parent_category | slugify %}
+            {% assign parent_category_url = '/categories/' | append: parent_category_slug | append: '/' %}
+
+            <span class="breadcrumb-parent">
+              <a href="{{ parent_category_url | relative_url }}">
+                {{- parent_category -}}
               </a>
             </span>
-          {% endfor %}
-        {% endif %}
+            <span class="breadcrumb-current" aria-current="page">
+              {{- page.title -}}
+            </span>
+          {% else %}
+            <span class="breadcrumb-parent">
+              <a href="{{ '/' | relative_url }}">
+                {{- site.data.locales[include.lang].tabs.home | default: 'Home' | capitalize -}}
+              </a>
+            </span>
+            <span class="breadcrumb-current" aria-current="page">
+              {{- page.title -}}
+            </span>
+          {% endif %}
 
-        <!-- 4. Current Post Title -->
-        <span>{{ page.title }}</span>
+        {% elsif page.layout == 'category' %}
+          <span class="breadcrumb-parent">
+            <a href="{{ '/categories/' | relative_url }}">
+              {{- site.data.locales[include.lang].tabs.categories | default: 'Categories' -}}
+            </a>
+          </span>
+          <span class="breadcrumb-current" aria-current="page">{{- page.title -}}</span>
 
-      {% else %}
-        <!-- Default Chirpy Breadcrumb Logic for Tabs, Tags, and Archive Pages -->
-        {% assign paths = page.url | split: '/' %}
-        {% if paths.size == 0 or page.layout == 'home' %}
-          <!-- index page -->
-          <span>{{ site.data.locales[include.lang].tabs.home | capitalize }}</span>
+        {% elsif page.layout == 'tag' %}
+          <span class="breadcrumb-parent">
+            <a href="{{ '/tags/' | relative_url }}">
+              {{- site.data.locales[include.lang].tabs.tags | default: 'Tags' -}}
+            </a>
+          </span>
+          <span class="breadcrumb-current" aria-current="page">{{- page.title -}}</span>
+
         {% else %}
-          {% for item in paths %}
-            {% if forloop.first %}
-              <span>
-                <a href="{{ '/' | relative_url }}">
-                  {{- site.data.locales[include.lang].tabs.home | capitalize -}}
-                </a>
-              </span>
-            {% elsif forloop.last %}
-              {% if page.collection == 'tabs' %}
-                <span>{{ site.data.locales[include.lang].tabs[item] | default: page.title }}</span>
-              {% else %}
-                <span>{{ page.title }}</span>
-              {% endif %}
-            {% elsif page.layout == 'category' or page.layout == 'tag' %}
-              <span>
-                <a href="{{ item | append: '/' | relative_url }}">
-                  {{- site.data.locales[include.lang].tabs[item] | default: page.title -}}
-                </a>
-              </span>
-            {% endif %}
-          {% endfor %}
+          <span class="breadcrumb-parent">
+            <a href="{{ '/' | relative_url }}">
+              {{- site.data.locales[include.lang].tabs.home | default: 'Home' | capitalize -}}
+            </a>
+          </span>
+          <span class="breadcrumb-current" aria-current="page">{{- page.title -}}</span>
         {% endif %}
-      {% endif %}
-    </nav>
-    <!-- endof #breadcrumb -->
+
+      </nav>
+    {% endunless %}
 
     <button type="button" id="sidebar-trigger" class="btn btn-link" aria-label="Sidebar">
       <i class="fas fa-bars fa-fw"></i>
@@ -77,7 +66,7 @@
       {% if page.layout == 'home' %}
         {{- site.data.locales[include.lang].title | default: site.title -}}
       {% elsif page.collection == 'tabs' or page.layout == 'page' %}
-        {%- capture tab_key -%}{{ page.url | split: '/' }}{%- endcapture -%}
+        {% assign tab_key = page.url | split: '/' | last %}
         {{- site.data.locales[include.lang].tabs[tab_key] | default: page.title -}}
       {% else %}
         {{- site.data.locales[include.lang].layout[page.layout] | default: page.layout | capitalize -}}
@@ -94,11 +83,12 @@
         class="form-control"
         id="search-input"
         type="search"
-        aria-label="search"
+        aria-label="Search"
         autocomplete="off"
         placeholder="{{ site.data.locales[include.lang].search.hint | capitalize }}..."
       >
     </search>
+
     <button type="button" class="btn btn-link text-decoration-none" id="search-cancel">
       {{- site.data.locales[include.lang].search.cancel -}}
     </button>

@@ -1,5 +1,3 @@
----
----
 @use 'abstracts/variables' with (
   $theme: '{{ site.theme_mode }}'
 );
@@ -8,7 +6,9 @@
 @use 'main {%- if jekyll.environment == 'production' -%} .bundle {%- endif -%} ';
 
 /* =========================================================
-   CUSTOM NATIVE SYSTEM FONT OVERRIDE
+   1. TYPOGRAPHY OVERRIDE
+   Forces the browser to use native system fonts for better 
+   performance and a cleaner, OS-native look.
    ========================================================= */
 body, input, textarea, button, select {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
@@ -19,43 +19,99 @@ h1, h2, h3, h4, h5, h6, .post-title {
 }
 
 /* =========================================================
-   SIDEBAR SPACING FIX (for new font)
+   2. SIDEBAR SPACING
+   Adjusts vertical whitespace to improve the visual balance 
+   of the sidebar profile and navigation.
    ========================================================= */
 #sidebar .profile-wrapper {
-  margin-bottom: 2rem !important; /* Pushes the entire text area down away from the Home tab */
+  /* Adds breathing room below the avatar/title area */
+  margin-bottom: 2rem !important; 
 }
 
 .site-subtitle {
-  margin-bottom: 0.5rem !important; /* Adds a clean gap between title and subtitle if needed */
+  /* Refines gap between the title and the tagline */
+  margin-bottom: 0.5rem !important; 
 }
 
 #sidebar d-flex {
-  gap: 1rem; /* Ensures general sidebar elements maintain structural separation */
+  /* Ensures proper gap for flexible sidebar components */
+  gap: 1rem; 
 }
 
-/* Create space between the top bar and the browser ceiling */
 #topbar-wrapper {
+  /* Provides a slight offset from the browser top edge */
   margin-top: 12px; 
 }
 
 /* =========================================================
-   HOME PAGE BREADCRUMB CLEANUP
+   3. BREADCRUMB UI LOGIC
+   Manages how breadcrumbs appear.
    ========================================================= */
-/* Hides the redundant "Home" text only on the main landing page layout */
-#main-wrapper:has(#post-list) #breadcrumb {
+
+#breadcrumb {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+#breadcrumb .breadcrumb-parent,
+#breadcrumb .breadcrumb-current {
+  display: inline-flex;
+  align-items: center;
+  min-width: 0;
+}
+
+/* Remove Chirpy's original separators */
+#breadcrumb span::before,
+#breadcrumb span::after,
+#breadcrumb a::before,
+#breadcrumb a::after {
   display: none !important;
+  content: none !important;
+}
+
+/* Add one separator between parent and current page */
+#breadcrumb .breadcrumb-current::before {
+  display: inline-block !important;
+  margin: 0 0.5rem;
+  color: var(--text-muted-color);
+  content: "/" !important;
+}
+
+#breadcrumb .breadcrumb-parent a {
+  color: #0056b2 !important;
+  text-decoration: none;
+}
+
+#breadcrumb .breadcrumb-parent a:hover,
+#breadcrumb .breadcrumb-parent a:focus {
+  text-decoration: underline;
+}
+
+#breadcrumb .breadcrumb-current {
+  overflow: hidden;
+  color: var(--text-muted-color);
+  text-overflow: ellipsis;
 }
 
 /* =========================================================
-   CATEGORY PAGE: HIDE UNUSED EXPANSION ARROWS
+   4. CATEGORY UI
+   Removes unnecessary expansion UI elements from the 
+   categories list for a cleaner design.
    ========================================================= */
 .category-trigger.disabled {
   display: none !important;
 }
 
 /* =========================================================
-   COLLAPSIBLE ARCHIVES TIMELINE DESIGN
+   5. ARCHIVES TIMELINE
+   Custom styles to create a vertical timeline effect for 
+   post archives by year and month.
    ========================================================= */
+
+/* The year header styling */
 .archive-year {
   font-size: 1.6rem;
   font-weight: 700;
@@ -64,7 +120,7 @@ h1, h2, h3, h4, h5, h6, .post-title {
   color: var(--heading-color);
 }
 
-/* Style the month trigger bar */
+/* Month trigger button container */
 .archive-month-btn {
   background-color: var(--main-border-color);
   border: 1px solid transparent;
@@ -83,6 +139,7 @@ h1, h2, h3, h4, h5, h6, .post-title {
   }
 }
 
+/* Typography for the month names */
 .archive-month-title {
   font-weight: 600;
   letter-spacing: 0.05rem;
@@ -90,14 +147,14 @@ h1, h2, h3, h4, h5, h6, .post-title {
   font-size: 0.9rem;
 }
 
-/* Smooth rotating arrow indicator */
+/* Arrow icon rotation animation */
 .collapse-arrow-icon {
   font-size: 0.85rem;
   transition: transform 0.2s ease-in-out;
   color: var(--text-muted-color);
 }
 
-/* When Bootstrap opens the content, rotate the arrow down */
+/* Styles applied when the archive month is expanded */
 .archive-month-btn[aria-expanded="true"] {
   color: var(--toc-highlight);
   border-color: var(--toc-highlight);
@@ -108,11 +165,12 @@ h1, h2, h3, h4, h5, h6, .post-title {
   }
 }
 
-/* Timeline vertical track */
+/* The vertical line acting as the timeline track */
 .timeline-post-list {
   border-left: 2px solid var(--toc-highlight);
   margin-left: 1.25rem;
 
+  /* List item link interaction */
   li .archive-post-link {
     color: var(--text-color);
     transition: color 0.15s ease-in-out;
@@ -123,16 +181,18 @@ h1, h2, h3, h4, h5, h6, .post-title {
   }
 }
 
-/* Add space between each month block */
+/* Spacing between different month groups */
 .archive-month-wrapper {
-  margin-bottom: 0.60rem !important; /* Increase or decrease this number to get the perfect gap */
+  margin-bottom: 0.60rem !important; 
 }
 
-/* ==========================================================================
-   COLOR BLUE OVERRIDE
-   ========================================================================== */
+/* =========================================================
+   6. PROMPT/ALERT BOX OVERRIDES
+   Customizes the color of informational callout boxes 
+   throughout the site.
+   ========================================================= */
 
-/* Prompt Tip Boxes */
+/* Box borders and background */
 .prompt-tip,
 .alert-tip,
 .blockquote-tip,
@@ -141,12 +201,14 @@ blockquote.prompt-tip {
   background-color: rgba(0, 86, 178, 0.12) !important;
 }
 
+/* Icon colors */
 .prompt-tip::before,
 blockquote.prompt-tip::before,
 .prompt-tip i {
   color: #4f8fd8 !important;
 }
 
+/* Text color inside callouts */
 .prompt-tip,
 .prompt-tip p,
 blockquote.prompt-tip,
