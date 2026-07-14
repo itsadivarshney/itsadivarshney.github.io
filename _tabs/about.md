@@ -1,8 +1,9 @@
 ---
 # the default layout is 'page'
-title: About Me
+title: About
 icon: fas fa-info-circle
 order: 1
+description: "About Aditya Varshney, his philosophical reflections, technology interests, badminton, and drumming."
 ---
 
 Hi, I’m Aditya Varshney. Welcome to my digital space 👋

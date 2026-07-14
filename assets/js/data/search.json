@@ -1,0 +1,38 @@
+---
+layout: compress
+swcache: true
+---
+
+{% assign about_page = site.tabs | where_exp: "tab", "tab.url == '/about/'" | first %}
+
+[
+  {% for post in site.posts %}
+  {
+    "title": {{ post.title | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "categories": {{ post.categories | join: ', ' | jsonify }},
+    "tags": {{ post.tags | join: ', ' | jsonify }},
+    "date": {{ post.date | jsonify }},
+    {% capture content -%}
+      {% include post-summary.html full_text=true %}
+    {%- endcapture %}
+    "content": {{ content | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+
+  {% if about_page %}
+    {% if site.posts.size > 0 %},{% endif %}
+    {
+      "title": {{ about_page.title | default: 'About Me' | jsonify }},
+      "url": {{ about_page.url | relative_url | jsonify }},
+      "categories": "About",
+      "tags": "",
+      "date": "",
+      {% capture about_content -%}
+        {{ about_page.description }}
+        {{ about_page.content | markdownify | strip_html }}
+      {%- endcapture %}
+      "content": {{ about_content | normalize_whitespace | jsonify }}
+    }
+  {% endif %}
+]
