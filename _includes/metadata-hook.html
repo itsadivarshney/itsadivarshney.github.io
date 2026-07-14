@@ -18,10 +18,8 @@
     // Update the Mobile Topbar target
     if (mobileTopbarTitle) {
       if (mobileTopbarTitle.tagName === 'A') {
-        // If it is a standard link, simply update the destination
         mobileTopbarTitle.href = aboutUrl;
       } else {
-        // If Chirpy rendered it as a <span>, we can easily force it to act like a link!
         mobileTopbarTitle.style.cursor = 'pointer';
         mobileTopbarTitle.addEventListener('click', () => {
           window.location.href = aboutUrl;
@@ -30,7 +28,6 @@
     }
   });
 </script>
-
 
 {% if page.layout == 'post' %}
 <style>
@@ -46,22 +43,13 @@
     background-color: transparent;
   }
 
+  /* Progress bar hardcoded to Academic Purple */
   #reading-progress-bar {
     width: 0%;
     height: 100%;
     transition: width 0.1s ease-out;
-  }
-
-  /* --- LIGHT MODE ONLY COLOR (Purple) --- */
-  html:not([data-mode="dark"]) #reading-progress-bar {
-    background-color: #7D3F98 !important; 
-    box-shadow: 0 0 8px rgba(125, 63, 152, 0.6);
-  }
-
-  /* --- DARK MODE ONLY COLOR (Academic Gold) --- */
-  html[data-mode="dark"] #reading-progress-bar {
-    background-color: #C5A059 !important;
-    box-shadow: 0 0 8px rgba(197, 160, 89, 0.6);
+    background-color: #4f8fd8 !important; 
+    box-shadow: 0 0 8px #4f8fd8;
   }
 </style>
 
