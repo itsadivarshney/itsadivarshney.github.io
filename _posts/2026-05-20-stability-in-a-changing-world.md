@@ -3,7 +3,7 @@ title: "Finding Stability in the Changing World"
 date: 2026-05-20 09:00:00 +0800
 categories: [Philosophical Reflections]
 tags: [the-bhagavad-gita, impermanence, witness-consciousness, change, stability]
-description: "A reflection on why true stability is not found by controlling change but by anchoring in the unchanging Witness within."
+description: "A reflection on why true stability is not found by controlling change but by anchoring in the unchanging witness within."
 ---
 
 <img src="/assets/img/philosophical_reflections_photos/44.jpeg" alt="photo for post 44" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">

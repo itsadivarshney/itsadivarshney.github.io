@@ -28,7 +28,7 @@ In that quiet, the mind begins to remember:
 
 But the real test is not whether we can feel peaceful at the beach, in the mountains, or in a silent room. The real test is whether we can carry some of that steadiness back into ordinary life, especially when the city is loud, responsibilities return, people behave unpredictably, and circumstances do not match our preferences. Peace that only survives in perfect conditions is still dependent on conditions. The deeper practice is to cultivate a stability that remains available even when the outer environment is no longer ideal.
 
-## The Glass and the Ocean
+## The Glass and Ocean
 
 Imagine the mind as a small glass of water. If a pebble falls into it, the water splashes immediately because the glass has very little capacity to absorb disturbance. Even a small impact feels large when the container is small. Now, imagine the ocean where thousands of rivers flow into it, rain falls upon it, waves rise on its surface, and storms move across it. Yet the ocean remains vast. Its surface may move, but its depth is not destroyed. This image helps us understand why inner depth matters. When the mind becomes deeper and more spacious, experiences can arise without completely taking over our peace.
 

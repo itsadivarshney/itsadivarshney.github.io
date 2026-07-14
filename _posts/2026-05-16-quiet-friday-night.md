@@ -11,7 +11,7 @@ description: "A reflection on how choosing quiet time can train the mind to beco
 > What if choosing to spend a Friday night alone is not a sign that you lack a social life but a conscious decision to reclaim your mind?
 {: .prompt-tip }
 
-## Solitude
+## Solitude and Loneliness
 
 Between group chats, social plans, work events, and constant notifications, we often spend a large amount of energy maintaining a persona. We may appear social on the outside, but we are not always socializing from joy. Sometimes, we are socializing from restlessness, comparison, or the fear of missing out. This is why a quiet evening can feel uncomfortable. When there is no event to attend, no conversation to continue, and no external distraction to hold our attention, the mind suddenly has space to reveal itself. For many of us, that space can feel unsettling. 
 
