@@ -1,3 +1,5 @@
+---
+---
 @use 'abstracts/variables' with (
   $theme: '{{ site.theme_mode }}'
 );
@@ -33,10 +35,6 @@ h1, h2, h3, h4, h5, h6, .post-title {
   margin-bottom: 0.5rem !important; 
 }
 
-#sidebar d-flex {
-  /* Ensures proper gap for flexible sidebar components */
-  gap: 1rem; 
-}
 
 #topbar-wrapper {
   /* Provides a slight offset from the browser top edge */
@@ -81,12 +79,13 @@ h1, h2, h3, h4, h5, h6, .post-title {
 }
 
 #breadcrumb .breadcrumb-parent a {
-  color: #0056b2 !important;
+  color: var(--link-color) !important;
   text-decoration: none;
 }
 
 #breadcrumb .breadcrumb-parent a:hover,
 #breadcrumb .breadcrumb-parent a:focus {
+  color: var(--link-hover-color) !important;
   text-decoration: underline;
 }
 
@@ -188,30 +187,24 @@ h1, h2, h3, h4, h5, h6, .post-title {
 
 /* =========================================================
    6. PROMPT/ALERT BOX OVERRIDES
-   Customizes the color of informational callout boxes 
-   throughout the site.
+   Overrides Chirpy's native color variables for the TIP prompt.
    ========================================================= */
 
-/* Box borders and background */
+:root,
+html[data-theme="light"],
+html[data-theme="dark"] {
+  /* Inherit Chirpy's perfectly calculated native blue colors */
+  --prompt-tip-bg: var(--prompt-info-bg) !important;
+  --prompt-tip-icon-color: var(--prompt-info-icon-color) !important;
+}
+
 .prompt-tip,
-.alert-tip,
-.blockquote-tip,
 blockquote.prompt-tip {
-  border-left-color: #4f8fd8 !important;
-  background-color: rgba(0, 86, 178, 0.12) !important;
-}
-
-/* Icon colors */
-.prompt-tip::before,
-blockquote.prompt-tip::before,
-.prompt-tip i {
-  color: #4f8fd8 !important;
-}
-
-/* Text color inside callouts */
-.prompt-tip,
-.prompt-tip p,
-blockquote.prompt-tip,
-blockquote.prompt-tip p {
+  border-left-color: var(--prompt-tip-icon-color) !important;
   color: var(--text-color) !important;
+}
+
+.prompt-tip::before,
+blockquote.prompt-tip::before {
+  color: var(--prompt-tip-icon-color) !important;
 }
