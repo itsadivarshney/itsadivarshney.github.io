@@ -1,0 +1,48 @@
+---
+title: "The Journey of Prayer from Words into Silent Awareness"
+date: 2026-05-11 09:00:00 +0800
+categories: [Philosophical Reflections]
+tags: [upanishads, the-bhagavad-gita, prayer, OM, silence]
+description: "A reflection on how true prayer moves from words into the still awareness of the self."
+---
+
+<img src="/assets/img/philosophical_reflections_photos/41.jpeg" alt="photo for post 41" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
+> What is the most profound prayer you can offer?
+{: .prompt-tip }
+
+## Prayer
+
+We usually think of prayer as saying something. We may ask, thank, confess, repeat a mantra, or call out to the Divine. Words can be powerful because they focus the mind, give shape to devotion, and help us turn our attention away from scattered thought toward something sacred. The **Upanishads** suggest that prayer can move even deeper than words and is meant to refine the mind until the mind becomes quiet enough to notice what lies beyond speech. Among sacred sounds, [OM](/posts/tapping-into-the-universal-rhythm-of-om/) holds a special place. It gathers attention, purifies restlessness, and points the seeker towards the silence from which sound arises and into which sound returns.
+
+## From OM to Self
+
+When OM is chanted with awareness, the movement is subtle but profound. First, the sound gathers the mind. Then, as the sound fades, the mind begins to quiet down. Finally, in the silence that remains after the chant, we are invited to notice the presence of [Witness Consciousness](/posts/the-power-of-stepping-back-into-authentic-action/). In this sense, OM is the doorway that prepares the mind, but the silence after the sound is where the deeper opening begins.
+
+The *Upanishads* gives one of the most direct teachings on OM. It connects OM with waking, dreaming, deep sleep, and Turiya — the fourth, which is beyond ordinary mental experience. The sound of OM points through these states but the silence beyond the sound suggests that the deepest reality cannot be fully captured by words. The *Bhagavad Gita* also speaks of OM as the one-syllabled Brahman. Krishna teaches that one who chants OM while remembering the Divine moves towards the highest goal.
+
+## True Prayer
+
+True prayer is the willingness to become quiet enough to notice what remains when wanting becomes still. At first, prayer may be speech, where we speak because the heart is full, confused, grateful, afraid, or longing. Then, prayer becomes listening, because the mind begins to understand that devotion is not only expression but also receptivity. Finally, prayer becomes presence, where the need to constantly say something gives way to a quieter form of communion.
+
+In the silence after OM, the distance between the seeker and the sought can begin to feel thinner. The practice is no longer only about a person asking for something. It becomes a movement toward stillness where the restless mind slowly returns to the awareness that was present before the words began. This does not mean that spoken prayer is inferior or unnecessary. Words have their place and become powerful when they lead us inward rather than merely keeping us on the surface of thought.
+
+## Learning
+
+If we chant a prayer and immediately rush onward, we may miss an important part of the practice. The ending of the sound is not an empty gap; it is an invitation. The next time you say a prayer or chant OM, do not hurry past the silence that follows. Let the sound fade naturally and then remain still for a few moments. Notice what is present when the words are gone, when the asking pauses, and when the mind is no longer trying to perform devotion. The journey of prayer begins with words, but it does not have to end there. Words can lead to sound, sound can lead to silence, and silence can lead us closer to the Self.
+
+## Food for Thought
+
+> Are you afraid of silence?
+>
+> What would happen if for five minutes a day you treated silence as the most important conversation you could have?
+{: .prompt-tip }
+
+## References
+
+- Co-written with support from [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).
+- *Shrimad Bhagavad Gita Sachitra English*, Gita Press Gorakhpur: [https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283](https://gitapress.org/product/shrimad-bhagavad-gita-sachitra-with-english-translation-or-language-english-or-code-2283)
+- *Mandukya Upanishad*, on Om, waking, dreaming, deep sleep, and Turiya: [https://www.shlokam.org/text/mandukya-upanishad.htm](https://www.shlokam.org/text/mandukya-upanishad.htm)
+- *Mandukya Upanishad*, on A-U-M and the silence after Om as pointing to Turiya: [https://hindutva.online/mandukya-upanishad-explained-aum-and-four-states-of-consciousness/](https://hindutva.online/mandukya-upanishad-explained-aum-and-four-states-of-consciousness/)
+- Bhagavad Gita 8.13, on chanting Om while remembering the Supreme: [https://www.holy-bhagavad-gita.org/chapter/8/verse/13/](https://www.holy-bhagavad-gita.org/chapter/8/verse/13/)
+- *Katha Upanishad* 1.2.15–17, on Om as the goal declared by the Vedas and the supreme support: [https://the-katha-upanishad.blogspot.com/2025/01/chapter-12-verses-15-17.html](https://the-katha-upanishad.blogspot.com/2025/01/chapter-12-verses-15-17.html)
