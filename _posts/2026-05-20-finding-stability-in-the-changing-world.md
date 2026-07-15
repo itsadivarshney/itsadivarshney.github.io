@@ -30,7 +30,6 @@ So Krishna’s instruction is not:
 It is:
 
 > “Learn to endure them without being disturbed.”
-{: .prompt-tip }
 
 ## The Wrong Kind of Stability
 

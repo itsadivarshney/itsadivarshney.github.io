@@ -34,7 +34,6 @@ This practice is not a linguistic trick or a motivational exercise. It is a form
 The principle is simple, but its implications are profound:
 
 > You are not what you can observe.
-{: .prompt-tip }
 
 You are the awareness within which observation happens. This does not mean dismissing the body, ignoring emotions, or pretending that suffering is unreal at the practical level. Rather, it means learning to relate to experience with clarity, so that temporary conditions are not mistaken for the deepest identity.
 

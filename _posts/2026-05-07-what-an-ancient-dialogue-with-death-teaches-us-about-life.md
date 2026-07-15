@@ -36,7 +36,6 @@ When Nachiketa arrives, Yama is away. He waits for three nights without food, sh
 - For the third boon, he asks the question most people avoid:
 
 > “What happens after death?”
-{: .prompt-tip }
 
 ## The Test
 

@@ -32,7 +32,6 @@ Loneliness feels like a lack, while solitude is the presence of oneself without 
 The *Bhagavad Gita* gives a direct and practical teaching on the mind:
 
 > “Elevate yourself through the power of your mind and do not degrade yourself. The mind can be the friend of the self and also the enemy of the self.”
-{: .prompt-tip }
 
 Krishna does not describe the mind as something insignificant, nor does He treat it as something beyond discipline. The mind has the capacity to uplift us when it is trained but the same mind can disturb us when it remains uncontrolled. When the mind is untrained, silence can feel threatening. It may bring up anxiety, boredom, regret, comparison, or restlessness. This does not mean the mind is evil. It means the mind has not yet been guided with patience, attention, and practice.
 

@@ -24,7 +24,6 @@ Nature can serve as training wheels for the mind. It gives us an environment whe
 In that quiet, the mind begins to remember:
 
 > “I do not need the world to become perfect before I can become still.”
-{: .prompt-tip }
 
 But the real test is not whether we can feel peaceful at the beach, in the mountains, or in a silent room. The real test is whether we can carry some of that steadiness back into ordinary life, especially when the city is loud, responsibilities return, people behave unpredictably, and circumstances do not match our preferences. Peace that only survives in perfect conditions is still dependent on conditions. The deeper practice is to cultivate a stability that remains available even when the outer environment is no longer ideal.
 
@@ -45,7 +44,6 @@ This does not mean becoming emotionless or indifferent. The ocean still has wave
 The inner question is:
 
 > Am I a small glass or am I the ocean?
-{: .prompt-tip }
 
 ## Learning
 
@@ -54,7 +52,6 @@ Peace is not the absence of sound. A quiet place can help us remember our depth 
 The practice is to let silence teach us something that we can carry back into noise. It is easy to feel calm when nothing is challenging us but the deeper work is to remain inwardly spacious even when life sends one river after another into our awareness. This is why the image of the ocean is so powerful. The ocean does not need to reject the rivers in order to remain itself. In the same way, we do not need to fight every sound, desire, emotion, or circumstance in order to remain steady. We need to become rooted in a deeper sense of Self so that passing movements do not completely disturb our inner foundation.
 
 > So do not wait for the world to become silent. Practice becoming vast.
-{: .prompt-tip }
 
 ## Food for Thought
 

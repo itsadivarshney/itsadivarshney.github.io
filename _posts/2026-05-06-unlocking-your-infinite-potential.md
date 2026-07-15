@@ -54,7 +54,6 @@ Uddalaka’s teaching to Shvetaketu culminates in the great statement:
 > “Tat Tvam Asi”
 >
 > “That Thou Art.”
-{: .prompt-tip }
 
 This means that the subtle essence underlying the world is not separate from the essence within you. The same reality that is the hidden ground of existence is also the deepest truth of the Self. You are not merely the visible personality, the changing body, thoughts, emotions, achievements, fears, or social identity. At the deepest level, the Self is rooted in the same reality that underlies all existence - [Brahman](/posts/seeing-the-everyday-world-as-a-vibration-of-the-infinite/), the ultimate reality.
 

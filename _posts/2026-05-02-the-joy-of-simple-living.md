@@ -20,7 +20,6 @@ One practical way to reduce fixation on the material world is to simplify life w
 The *Upanishads* gives a powerful instruction:
 
 > Enjoy through renunciation.
-{: .prompt-tip }
 
 This sounds contradictory at first. How can you enjoy something by renouncing it? The point is to reject possessiveness, to use what is needed, appreciate what is present, and to not build your identity on ownership. A simple person may still have a home, tools, relationships, work, and responsibilities, yet their inner life is not governed by the anxious need to secure the self through these things. They can appreciate what is present without making possession the foundation of their being.
 
