@@ -39,7 +39,7 @@ The rope-snake analogy helps to explain mistaken perception. In dim light, a rop
 
 ## Learning
 
-When a seeker awakens spiritually, the everyday world is no longer viewed merely as a collection of disconnected forms. You realize that the *Dreamer* (you) and the *Dream* (the world) were never two separate things to begin with. To see *Brahman* through the world is to move from surface appearance toward underlying reality. The tree, the mountain, and the person before you remain visible and meaningful, yet they are no longer understood as isolated fragments of existence. You realize that everything you touch, taste, or see, is simply the Infinite vibrating at different frequencies to appear as solid matter.
+When a seeker awakens spiritually, the everyday world is no longer viewed merely as a collection of disconnected forms. You realize that the *Dreamer* (you) and the *Dream* (the world) were never two separate things to begin with. To see *Brahman* through the world is to move from surface appearance toward underlying reality. The tree, the mountain, and the person before you remain visible and meaningful, yet they are no longer understood as isolated fragments of existence. You realize that everything you touch, taste, or see, is simply the Infinite vibrating at different frequencies.
 
 ## Food for Thought
 
