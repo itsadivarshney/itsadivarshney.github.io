@@ -33,7 +33,11 @@ When Qual is finally unsealed, he expects his legendary killing magic to easily 
 {: .prompt-tip }
 
 ## Closing Thought
-Episode 3 presents us with two very *different types of conscious effort*. We see the deeply personal effort Frieren makes to step out of her comfort zone to understand Fern, alongside the strategic effort she puts into studying a demon’s magic. Real growth in our relationships and capabilities does not happen by accident. If we want to connect with someone, we have to study what makes them smile. If we want to overcome a fear, we must be willing to look it in the eye and learn how it works. Whether navigating human emotions or facing down demons, our greatest tool is always our willingness to understand. These conscious efforts, no matter how quiet or delayed they might seem, are what ultimately shape a meaningful and capable life.
+Episode 3 presents us with two very *different types of conscious effort*. We see the deeply personal effort Frieren makes to step out of her comfort zone to understand Fern, alongside the strategic effort she puts into studying a demon’s magic. Real growth in our relationships and capabilities does not happen by accident. If we want to connect with someone, we have to study what makes them smile. If we want to overcome a fear, we must be willing to look it in the eye and learn how it works. 
+
+> Whether navigating human emotions or facing down demons, our greatest tool is always our willingness to understand. 
+
+These conscious efforts, no matter how quiet or delayed they might seem, are what ultimately shape a meaningful and capable life.
 
 ## References
 - Co-written with support from [Google Gemini](https://gemini.google.com/).

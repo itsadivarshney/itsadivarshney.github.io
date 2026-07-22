@@ -27,7 +27,11 @@ The episode gives us a beautiful full-circle moment when Frieren discovers the n
 {: .prompt-tip }
 
 ## Closing Thought
-Episode 4 beautifully contrasts the quiet intimacy of watching a sunrise with the grand ambition of crossing the world to speak with the dead. Both storylines teach us that a life well-lived requires us to actively participate in our own human experience. We must wake up early to share the simple moments and we must find the courage to confront our deepest regrets. How often do we let ordinary moments pass us by or let our past regrets keep us from moving forward? Frieren reminds us that it is never too late to learn how to love the present moment and it is never too late to embark on a journey to heal our hearts.
+Episode 4 beautifully contrasts the quiet intimacy of watching a sunrise with the grand ambition of crossing the world to speak with the dead. Both storylines teach us that a life well-lived requires us to actively participate in our own human experience. We must wake up early to share the simple moments and we must find the courage to confront our deepest regrets. 
+
+> How often do we let ordinary moments pass us by or let our past regrets keep us from moving forward?
+
+Frieren reminds us that it is never too late to learn how to love the present moment and it is never too late to embark on a journey to heal our hearts.
 
 ## References
 - Co-written with support from [Google Gemini](https://gemini.google.com/).

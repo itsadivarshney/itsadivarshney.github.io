@@ -35,7 +35,11 @@ Upon meeting Stark, Frieren and Fern discover a humorous yet profound contradict
 {: .prompt-tip }
 
 ## Closing Thought
-Episode 5 explores how we navigate both our internal emotions and external challenges. From embracing the chaotic warmth of a traveling partner to seeing through emotional illusions and standing firm in the presence of fear, the narrative invites us to reflect on how we respond when life becomes daunting. Will we let fear and illusion dictate our choices, or will we find the strength to remain present and true to ourselves? By trusting our inner voice and honoring our shared journeys, we find the resilience to stand our ground against whatever dragons we may face.
+Episode 5 explores how we navigate both our internal emotions and external challenges. From embracing the chaotic warmth of a traveling partner to seeing through emotional illusions and standing firm in the presence of fear, the narrative invites us to reflect on how we respond when life becomes daunting.
+
+> Will we let fear and illusion dictate our choices, or will we find the strength to remain present and true to ourselves?
+
+By trusting our inner voice and honoring our shared journeys, we find the resilience to stand our ground against whatever dragons we may face.
 
 ## References
 - Co-written with support from [Google Gemini](https://gemini.google.com/).
