@@ -1,6 +1,6 @@
 ---
 title: "Season 1, Episode 2"
-date: 2026-05-21 09:00:00 +0800
+date: 2026-07-21 09:00:00 +0800
 categories: [Anime Reflections - Frieren]
 description: "It Didn't Have to Be Magic..."
 ---

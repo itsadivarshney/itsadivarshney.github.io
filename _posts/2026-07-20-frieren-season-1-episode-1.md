@@ -1,6 +1,6 @@
 ---
 title: "Season 1, Episode 1"
-date: 2026-05-20 09:00:00 +0800
+date: 2026-07-20 09:00:00 +0800
 categories: [Anime Reflections - Frieren]
 description: "The Journey's End"
 ---

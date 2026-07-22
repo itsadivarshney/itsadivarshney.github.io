@@ -1,6 +1,6 @@
 ---
 title: "Season 1, Episode 5"
-date: 2026-05-23 09:00:00 +0800
+date: 2026-07-23 09:00:00 +0800
 categories: [Anime Reflections - Frieren]
 description: "Phantoms of the Dead"
 ---

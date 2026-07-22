@@ -1,6 +1,6 @@
 ---
 title: "Season 1, Episode 3"
-date: 2026-05-22 09:00:00 +0800
+date: 2026-07-22 09:00:00 +0800
 categories: [Anime Reflections - Frieren]
 description: "Killing Magic"
 ---
