@@ -1,5 +1,5 @@
 ---
-title: "Frieren: Season 1, Episode 4"
+title: "Frieren: S1, Episode 4"
 date: 2026-07-22 09:00:00 +0800
 categories: [Anime Reflections - Frieren]
 description: "The Land Where Souls Rest"

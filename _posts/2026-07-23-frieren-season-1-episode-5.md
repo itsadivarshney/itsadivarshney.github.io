@@ -1,5 +1,5 @@
 ---
-title: "Frieren: Season 1, Episode 5"
+title: "Frieren: S1, Episode 5"
 date: 2026-07-23 09:00:00 +0800
 categories: [Anime Reflections - Frieren]
 description: "Phantoms of the Dead"
