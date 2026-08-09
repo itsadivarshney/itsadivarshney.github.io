@@ -17,6 +17,8 @@ description: "Episodes 1 to 16"
 > - Graf Granat (the ruler of a city in the Northern Lands)
 > - Aura the Guillotine (one of the Seven Sages of Destruction)
 > - Lügner (the demon who served Aura the Guillotine)
+> - Linie (the demon girl)
+> - Basalt the Throne (the demon general)
 
 <img src="/assets/img/frieren_photos/1_part_1.jpeg" alt="Frieren and Fern" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
 <p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">A puzzle of Frieren (the elf mage) and Fern (the human apprentice of Frieren)</p>
@@ -138,6 +140,8 @@ The defeat of Qual offers a practical lesson on facing adversaries. Human mages 
 Episode 3 presents us with beautiful examples of conscious effort and the passage of time. We see the deeply personal dedication Frieren makes to step out of her comfort zone for Fern, alongside the strategic urgency humans used to study a demon’s magic. Real growth in our relationships and capabilities requires a willingness to observe and adapt. We must study what makes our loved ones smile and look our fears directly in the eye to understand how they work.
 
 > Whether navigating human emotions or facing down challenges, our greatest tool is always our willingness to understand.
+
+These quiet and persistent efforts ultimately shape a deeply meaningful life.
 
 ## Episode 4: The Land Where Souls Rest
 
@@ -333,6 +337,78 @@ Episode 8 weaves a narrative of knowing oneself-whether that is Frieren seeing t
 > If we are all equipped with unique strengths for our own specific duties, what inner noise must you quiet today to trust the abilities you already possess?
 
 By embracing the strengths we are given and facing our challenges head-on, we learn to walk our path with quiet confidence.
+
+## Episode 9: Aura the Guillotine
+
+### The Story Premise
+In this episode, the narrative fractures into three distinct battles that test the internal resolve and capabilities of the main cast. Frieren confronts Aura directly to spare Graf's subjugated men, Stark faces off against a demon mimicking his master's techniques, and Fern relies on pure speed and mastery to defeat her opponent. Together, these encounters highlight the profound differences between hollow imitation and true, lived resilience.
+
+### Theme 1: Dignity in Battle
+When Frieren realizes that Aura’s army consists of Graf’s loyal men who were turned into puppets through the scales of obedience because their mana was lower, she makes a profound choice. Rather than taking the most efficient route of destroying the entire army along with Aura, she chooses to confront the demon directly. By dispelling the subjugation magic, Frieren ensures these strong willed men receive a dignified end rather than a meaningless slaughter. This decision is a quiet testament to the enduring influence of Himmel and the hero party. It reveals her deepening grasp of human emotion and respect for the lives of others, an act of empathy that Graf deeply appreciates in the aftermath.
+
+> Reflection: True power lies not in the capacity to destroy everything in our path but in the restraint we exercise to preserve the dignity of others.
+{: .prompt-tip }
+
+### Theme 2: The Power of Persistence
+Stark’s battle against his demonic opponent is a brilliant display of endurance and sheer willpower. The demon girl, Linie, fights using mere imitations of his master Eisen’s techniques, but Stark brings something deeper to the battlefield: lived experience and unyielding resolve. Guided by Eisen's instruction that a warrior is simply not allowed to get knocked out, Stark dodges, endures, and ensures she cannot interfere with Fern's fight with Lügner. He is willing to risk his own life to secure the victory, ultimately striking her down with a definitive lightning strike. Eisen's philosophy rings true here—the secret to overcoming a stronger opponent is the grit to keep moving forward, as the warrior left standing is the ultimate victor.
+
+> Reflection: A hollow imitation of skill will always shatter against the quiet, unyielding resolve of someone willing to give everything to keep standing.
+{: .prompt-tip }
+
+### Theme 3: Knowing Your Strengths
+The episode weaves a broader narrative about understanding our own capabilities, highlighted beautifully by Fern's blinding speed and her decisive use of Zoltraak against Lügner. Each character relies on a deep awareness of their personal strengths and weaknesses to survive. This mirrors the challenges we face in our own lives, much like the discipline required in a sport like badminton. Success in any arena requires us to objectively assess our flaws, hone our natural talents, and cultivate the belief that we can push through adversity. When we embrace both our limitations and our power, we find the courage to never give up.
+
+> Reflection: True mastery of the self requires the humility to accept our weaknesses and the dedication to endlessly sharpen our strengths.
+{: .prompt-tip }
+
+### Closing Thought
+Episode 9 serves as a masterclass in contrasting empty power with human resilience. Through Frieren's empathy, Stark's stubborn endurance, and Fern's focused expertise, we are reminded that our internal resolve shapes the outcome of our external battles.
+
+> When the odds are stacked against you and the path forward looks unfavorable, what core belief will keep you standing?
+
+By learning to understand our own nature and persistently pushing forward, every struggle becomes an opportunity to step closer to who we are meant to be.
+
+## Episode 10: A Powerful Mage
+
+### The Story Premise
+Frieren stands alone against Aura the Guillotine in a high-stakes battle of mana and resolve. Through flashbacks, we learn how Frieren became the sole survivor of an elven village destroyed by Basalt the Throne, and how the legendary mage Flamme took her in as an apprentice. Flamme taught Frieren to continuously suppress her mana as a long-term deception against the proud demons, a lesson Frieren brings to its dramatic conclusion as she faces Aura's Scales of Obedience.
+
+### Theme 1: The Trap of Pride and Display
+Demons rely on their mana to establish social hierarchy and status, much like human nobles use fine clothes and jewelry to demonstrate wealth. Because demons view mana as their ultimate measure of worth, they flaunt their full strength and see no benefit in concealing it. This overconfidence becomes their fatal flaw. Flamme recognized this mindset and taught Frieren a long-term strategy: continuously suppress her mana to appear far weaker than she actually is. By refusing to show off her true power, Frieren turns her opponent's arrogance into an unexpected trap.
+
+> Reflection: True strength does not need to advertise itself, as those who rely on constant display often blind themselves to quiet depth in others.
+{: .prompt-tip }
+
+### Theme 2: Living Modestly Without Chasing Legacy
+After saving Frieren from the ruins of her destroyed village, Flamme offered her apprentice a profound piece of advice. She told Frieren not to worry about leaving her mark on history, but rather to live modestly and quietly refine her craft. Flamme knew that with Frieren's long elven lifespan, her destiny to defeat the Demon King would naturally carve her name into history without the need for vanity. We often become obsessed with making a grand name for ourselves or proving our worth to the world. Real fulfillment comes from focusing on our daily duties and loving what we do, allowing our legacy to take care of itself.
+
+> Reflection: When we focus on living humbly and fulfilling our inner purpose, we naturally leave a lasting legacy without ever needing to chase it.
+{: .prompt-tip }
+
+### Theme 3: Recognizing Greatness Beneath the Surface
+When Frieren first met Flamme, she could instantly sense that Flamme was an extraordinary mage, even though Flamme was completely suppressing her mana. Centuries later, Himmel felt that exact same intuitive hunch about Frieren, recognizing her immense power despite her quiet and humble exterior. This shared intuition highlights how genuine depth can be felt by those who are truly attentive. True character and capability radiate from within, transcending surface appearances and deceptive signals.
+
+> Reflection: Real depth is recognized not through flashy displays but through the quiet intuition of those who know how to look closely.
+{: .prompt-tip }
+
+### Theme 4: The Beauty in Simple Magic
+Despite being a legendary mage who saved Frieren and laid the groundwork to defeat the Demon King, Flamme's favorite spell was a gentle one that created a field of flowers. Taught to her by her parents, this simple magic was what made her fall in love with magic in the first place. Before her death, Flamme asked Frieren to use this spell to decorate her grave, a request that seemed surprisingly gentle for a warrior who lived to fight demons. This explains why Frieren carries a deep affection for simple, seemingly impractical spells. It grounds her tragic past in a warm memory of her master, reminding us that simple joys can sustain our spirit through immense loss.
+
+> Reflection: The simplest pleasures often hold the deepest meaning, anchoring our hearts in love and peace even after facing great tragedy.
+{: .prompt-tip }
+
+### Theme 5: The Discipline of Lifelong Restraint
+Aura spent five hundred years gathering mana and boasting her superiority, believing her Scales of Obedience would easily subjugate Frieren. What Aura failed to comprehend was that Frieren had spent over a thousand years continuously suppressing her mana, maintaining perfect control without a single tremor. Frieren's victory was not won through sudden power, but through a millennium of patient restraint and discipline. By deceiving Aura into underestimating her, Frieren tilts the scales of obedience and issues the final command for Aura to end her own life.
+
+> Reflection: Patient discipline cultivated over time will always triumph over the noisy confidence of those who rely solely on outward appearance.
+{: .prompt-tip }
+
+### Closing Thought
+Episode 10 brings together the tragic origin of Frieren's journey with the ultimate payoff of her master's teachings. Through Flamme's wisdom, we see that restraint, modesty, and quiet endurance are far more powerful than the loudest displays of strength.
+
+> Are we living our lives to prove our worth to others, or are we quietly cultivating the internal strength needed for our true purpose?
+
+When we choose to live modestly and master ourselves from within, we find a steady power that no outward challenge can break.
 
 ## References
 - Co-written with support from [Google Gemini](https://gemini.google.com/).
