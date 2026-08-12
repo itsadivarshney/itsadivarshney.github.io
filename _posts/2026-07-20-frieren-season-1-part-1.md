@@ -22,6 +22,9 @@ description: "Episodes 1 to 16"
 > - Kraft (the elven monk)
 > - Stoltz (Stark's older brother)
 > - Sein (the priest)
+> - Lord Orden (the head of the Orden family in Vorig)
+> - Wirt (Lord Orden's eldest son)
+> - Mut (Lord Orden's younger son)
 
 <img src="/assets/img/frieren_photos/1_part_1.jpeg" alt="Frieren and Fern" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
 <p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">A puzzle of Frieren (the elf mage) and Fern (the human apprentice of Frieren)</p>
@@ -568,6 +571,36 @@ Episode 14 weaves a gentle narrative about the ways we show care for one another
 > When we strip away the expectation that others should read our minds, how can we more clearly communicate the care we hold for them today?
 
 By embracing the messy work of communicating our feelings and appreciating the quiet efforts of those around us, we can build relationships that endure long beyond our youth.
+
+## Episode 15: Smells Like Trouble
+
+### The Story Premise
+The party encounters a village placed into a deep, stone-like slumber by a subspecies of the chaos flower. With his companions falling asleep one by one, Sein is left to combat the monster alone, relying on a fleeting five-second window to trust Frieren's abilities. Later, in the fortress city of Vorig, Stark is enlisted by Lord Orden to impersonate his fallen eldest son. As Stark and Fern prepare for a high-society gathering, Stark bonds with Orden’s younger son, reflecting on the quiet dignity of hard work.
+
+### Theme 1: Believing in Words
+When Sein faces the chaos flower alone, he discovers the monster reflects magic. He is equipped with a spell that can only wake Frieren for five seconds. Doubt creeps in whether five seconds would be enough time to explain the situation, formulate a plan, and execute a strike? However, Sein remembers a lesson from Heiter. Because Frieren struggles with communication, Heiter chose to simply believe her words when she promised to defeat the Demon King. Following this wisdom, Sein wakes Frieren without explanation. In those five seconds, Frieren instantly assesses the threat and destroys the monster.
+
+> Reflection: True trust sometimes means putting aside our need for lengthy explanations and simply believing in the promises of those we rely on.
+{: .prompt-tip }
+
+### Theme 2: Duty in the Face of Grief
+Upon arriving in Vorig, the party is brought to Lord Orden, whose eldest son and city hero, Wirt, recently died in battle. Because Vorig city is a critical defense line, Orden cannot afford to break the news of his son's death until the army has fully recovered, as it would shatter morale. He asks Stark, who bears a striking resemblance to Wirt, to impersonate him at a social gathering. Orden shoulders the immense grief of losing a child in silence, prioritizing the safety of his people over his personal mourning. Meanwhile, the party accepts the job for highly practical reasons of not having to worry for a year's worth of food and a new grimoire for Frieren, leading to a beautiful moment where Stark and Fern learn to dance together.
+
+> Reflection: Leadership often requires bearing the heavy burden of personal grief in silence to ensure the safety and stability of those you protect.
+{: .prompt-tip }
+
+### Theme 3: Hard Work Over Natural Talent
+During their stay, Stark meets Lord Orden’s younger son, Mut. Mut lacks the natural swordsmanship gifts that his older brother Wirt possessed, yet he worked tirelessly. Lord Orden recognizes his hard work will one day pay off and predicts that he will one day even surpass him as an even stronger knight. This interaction brings back a poignant memory for Stark. When his own village dismissed him as a failure, his older brother believed in him and recognized his relentless effort. We frequently elevate natural talent but it is the persistence of those who must struggle to improve that truly builds lasting strength.
+
+> Reflection: Natural talent may grant an early advantage, but quiet, unwavering hard work eventually builds a strength that talent alone cannot reach.
+{: .prompt-tip }
+
+### Closing Thought
+Episode 15 balances high stakes trust with quiet, personal growth. Whether it is Sein learning to trust Frieren implicitly in the heat of battle or Lord Orden suppressing his grief for his people, we see how unseen efforts shape reality.
+
+> When the odds seem impossible and time is short, whose words in your life do you trust enough to act upon without hesitation?
+
+By believing in the promises of our friends and valuing the quiet dignity of hard work, we can navigate the most difficult challenges with grace.
 
 ## References
 - Co-written with support from [Google Gemini](https://gemini.google.com/).
