@@ -22,9 +22,11 @@ description: "Episodes 1 to 16"
 > - Kraft (the elven monk)
 > - Stoltz (Stark's older brother)
 > - Sein (the priest)
+> - Kries (the Gorilla Warrior, Sein's childhood friend)
 > - Lord Orden (the head of the Orden family in Vorig)
 > - Wirt (Lord Orden's eldest son)
 > - Mut (Lord Orden's younger son)
+> - Old Man Voll (the dwarf warrior)
 
 <img src="/assets/img/frieren_photos/1_part_1.jpeg" alt="Frieren and Fern" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
 <p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">A puzzle of Frieren (the elf mage) and Fern (the human apprentice of Frieren)</p>
@@ -601,6 +603,42 @@ Episode 15 balances high stakes trust with quiet, personal growth. Whether it is
 > When the odds seem impossible and time is short, whose words in your life do you trust enough to act upon without hesitation?
 
 By believing in the promises of our friends and valuing the quiet dignity of hard work, we can navigate the most difficult challenges with grace.
+
+## Episode 16: Long-lived Friends
+
+### The Story Premise
+In this episode, the party's journey takes them through encounters that deeply explore the nature of long-lived friendships. Sein continues his search for his childhood friend Kries, holding onto a photograph and the hope of a reunion. Along the way, the group meets Old Man Voll, a 400-year-old dwarf warrior who has spent his life protecting a single village. Through Voll’s interactions with Frieren and Sein’s pursuit of Kries, the episode weaves together stories of enduring bonds, hidden strengths, and the quiet promises we keep for the people we love.
+
+### Theme 1: The Sanctuary of Friendship
+Old Man Voll has guarded a village for long and the locals view him merely as a senile old man. However, the moment Frieren arrives, the 400-year-old dwarf lights up and engages in a lively conversation with Frieren like a long-lost friend. The villagers are shocked to see this enthusiastic side of him. It serves as a gentle reminder of how the people who truly know us can bring our spirits back to life, no matter how much time has passed or how the rest of the world perceives us.
+
+> Reflection: True friends create a sanctuary where we can shed the roles the world assigns us and safely speak our hearts.
+{: .prompt-tip }
+
+### Theme 2: The Danger of Assumption
+Stark looks at Old Man Voll and sees only a frail figure, questioning if someone of his age can still be considered a warrior. Voll instantly proves his skill by sweeping Stark’s legs out from under him, noting that if his blade had been unsheathed then Stark would have lost his legs entirely. Voll teaches a harsh but necessary lesson: letting your guard down due to arrogance or assumption is the most common way to lose your life. This applies on the battlefield, but it also reflects how we often underestimate the quiet strength of those who have weathered the years.
+
+> Reflection: Underestimating others based on appearance alone is a dangerous kind of arrogance that leaves us blind to their quiet strength.
+{: .prompt-tip }
+
+### Theme 3: Promises That Outlast Time
+Himmel once asked Old Man Voll why he risked his life to protect this specific village. Voll revealed that it was the village his late human wife loved. He protects it to fulfill a promise made to her long ago, even as his own memory fades and he begins to forget even her face. It is a profound look at devotion. Even when the sharp details of a memory begin to blur with age, the actions taken out of love remain firmly anchored in the present.
+
+> Reflection: Love is most enduring not in perfect memories, but in the faithful actions we continue to perform long after the one we love is gone.
+{: .prompt-tip }
+
+### Theme 4: Patience and Purpose
+As Sein searches for clues about Kries—now known as the Gorilla Warrior—the group encounters a stubborn old woman who holds the information they need. Rather than giving them the answers immediately, she tasks them with a series of mundane errands. Frieren and the party patiently complete these tasks to uncover the next step of Sein's journey. Sometimes, finding the answers we desperately seek requires us to put our own goals on hold and serve the needs of others.
+
+> Reflection: Finding the answers we seek often requires the humility to slow down and serve the needs of the people standing right in front of us.
+{: .prompt-tip }
+
+### Closing Thought
+Episode 16 beautifully illustrates how connections bridge the gaps created by time and distance. Whether it is Voll protecting a village for a wife he can barely picture, or Sein holding onto a photograph of a friend he hopes to find, we see that genuine bonds shape our purpose.
+
+> When the sharp details of your past eventually begin to fade, what promises or quiet actions will remain to show what you truly valued?
+
+By cherishing the friends who know us best and honoring the commitments we make, we craft a life that carries meaning far beyond our own years.
 
 ## References
 - Co-written with support from [Google Gemini](https://gemini.google.com/).
