@@ -22,7 +22,7 @@ description: "Episodes 1 to 16"
 > - Kraft (the elven monk)
 > - Stoltz (Stark's older brother)
 > - Sein (the priest)
-> - Kries (the Gorilla Warrior, Sein's childhood friend)
+> - Kreis (the Gorilla Warrior, Sein's childhood friend)
 > - Lord Orden (the head of the Orden family in Vorig)
 > - Wirt (Lord Orden's eldest son)
 > - Mut (Lord Orden's younger son)
@@ -607,7 +607,7 @@ By believing in the promises of our friends and valuing the quiet dignity of har
 ## Episode 16: Long-lived Friends
 
 ### The Story Premise
-In this episode, the party's journey takes them through encounters that deeply explore the nature of long-lived friendships. Sein continues his search for his childhood friend Kries, holding onto a photograph and the hope of a reunion. Along the way, the group meets Old Man Voll, a 400-year-old dwarf warrior who has spent his life protecting a single village. Through Voll’s interactions with Frieren and Sein’s pursuit of Kries, the episode weaves together stories of enduring bonds, hidden strengths, and the quiet promises we keep for the people we love.
+In this episode, the party's journey takes them through encounters that deeply explore the nature of long-lived friendships. Sein continues his search for his childhood friend Kreis, holding onto a photograph and the hope of a reunion. Along the way, the group meets Old Man Voll, a 400-year-old dwarf warrior who has spent his life protecting a single village. Through Voll’s interactions with Frieren and Sein’s pursuit of Kreis, the episode weaves together stories of enduring bonds, hidden strengths, and the quiet promises we keep for the people we love.
 
 ### Theme 1: The Sanctuary of Friendship
 Old Man Voll has guarded a village for long and the locals view him merely as a senile old man. However, the moment Frieren arrives, the 400-year-old dwarf lights up and engages in a lively conversation with Frieren like a long-lost friend. The villagers are shocked to see this enthusiastic side of him. It serves as a gentle reminder of how the people who truly know us can bring our spirits back to life, no matter how much time has passed or how the rest of the world perceives us.
@@ -628,7 +628,7 @@ Himmel once asked Old Man Voll why he risked his life to protect this specific v
 {: .prompt-tip }
 
 ### Theme 4: Patience and Purpose
-As Sein searches for clues about Kries—now known as the Gorilla Warrior—the group encounters a stubborn old woman who holds the information they need. Rather than giving them the answers immediately, she tasks them with a series of mundane errands. Frieren and the party patiently complete these tasks to uncover the next step of Sein's journey. Sometimes, finding the answers we desperately seek requires us to put our own goals on hold and serve the needs of others.
+As Sein searches for clues about Kreis—now known as the Gorilla Warrior—the group encounters a stubborn old woman who holds the information they need. Rather than giving them the answers immediately, she tasks them with a series of mundane errands. Frieren and the party patiently complete these tasks to uncover the next step of Sein's journey. Sometimes, finding the answers we desperately seek requires us to put our own goals on hold and serve the needs of others.
 
 > Reflection: Finding the answers we seek often requires the humility to slow down and serve the needs of the people standing right in front of us.
 {: .prompt-tip }
