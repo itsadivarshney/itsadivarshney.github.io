@@ -127,9 +127,9 @@ Nothing here asks about difficulty. No regrets. No fears. No what are you strugg
 
 ## How to use them, and how not to
 
-**One per sitting.** This is not a set you work through. You bring one out when the conversation has a gap in it. Then you put the list away. Running several of them turns dinner into an interview which is precisely what I was trying to avoid.
+**One per sitting.** This is not a set you work through. You bring one out when the conversation has a gap in it. Then you put the list away. Running several of them turns dinner into an interview, which is precisely what I was trying to avoid.
 
-**Let the silence sit.** Longer than it feels comfortable. People tend to give you the polite answer first and the real one second. The second one only arrives if you do not fill the gap.
+**Let the silence sit.** Longer than feels comfortable. People tend to give you the polite answer first and the real one second. The second one only arrives if you do not fill the gap.
 
 **Do not follow a good answer with another question.** When someone hands you something real, the job is not to respond impressively. The job is to not flinch and to not move on too quickly.
 
