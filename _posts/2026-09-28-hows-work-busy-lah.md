@@ -71,23 +71,25 @@ There is no handle on that question. It is so open that the person has to first 
 
 Compare it with this one.
 
-> Where do you feel most like yourself: a particular cafe, a walk you take, your parents kitchen?
+> Where do you feel most like yourself: your regular cafe, a walk you take in the evening, your parents' kitchen?
 
 The examples do not limit the answer. They tell the person which direction to start walking.
 
 ### One deliberate omission
 
-Nothing here asks about difficulty. No regrets. No fears. No what are you struggling with at the moment. This is a choice that I have made rather than an oversight. Every question of that kind I tried made the mood drop and the whole point was to leave a person feeling valued rather than examined. It does set a ceiling but these questions are meant to reliably produce warm and generous conversation. They will not produce the other kind, where someone tells you a thing they have never said out loud. That needs a different list, a different setting, and a lot more trust.
+Nothing here asks about difficulty. No regrets. No fears. No what are you struggling with at the moment. This is a choice that I have made rather than an oversight. Every question of that kind I tried made the mood drop and the whole point was to leave a person feeling valued rather than examined.
+
+It does set a ceiling. Even though answering these positively framed questions still requires genuine emotional presence, they are meant to reliably produce warm and generous conversation. They will not produce the other kind, where someone tells you a thing they have never said out loud. That needs a different list, a different setting, and a lot more trust.
 
 ## The questions
 
 ### Friends
 
 1. What's a food or habit you've picked up recently or have been wanting to try? Can you tell me what it does for you and why I should be excited about it?
-2. Where do you feel most like yourself: a particular cafe, a walk that you take, your parents kitchen? What is it about that place that lets you exhale?
+2. Where do you feel most like yourself: your regular cafe, a walk you take in the evening, your parents' kitchen? What is it about that place that lets you exhale?
 3. What's something small that reliably lifts your mood that you'd never think to mention to anyone?
 4. If I had one free weekend in the city you grew up in, where would you send me and what food would you tell me to order?
-5. At what moment did you realise you could move from friendship into a relationship? Was it something they said or something you noticed in yourself when they weren't in the room?
+5. Thinking back to when you and [Partner's Name] first got together, at what moment did you realise it could move from friendship into a relationship? Was it something they said or something you noticed in yourself when they weren't in the room?
 
 ### Colleagues around my age
 
