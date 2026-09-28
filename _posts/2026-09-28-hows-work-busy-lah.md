@@ -17,7 +17,7 @@ I see my parents a few times a year. There are one or two directors at work whos
 
 None of these felt like small numbers until I sat down and multiplied them out across the years I can reasonably expect to have. Time is finite and a conversation that goes nowhere spends it just as quickly as a good one does. I know how most of these conversations begin, because I have sat through many of them myself.
 
-> How's work? Busy lah. Traffic was terrible.
+> How's work? Busy lah.
 
 Then the meal ends. We agree we should do this more often but nothing has passed between us.
 
@@ -75,18 +75,6 @@ Compare it with this one.
 
 The examples do not limit the answer. They tell the person which direction to start walking.
 
-### The rule that broke the system
-
-I wrote the questions for people my own age group last and they were the weakest of the four sets. It took me a while to see why. Every rule above depends on a gap. The other person knows something I do not. I ask. They give. That is what makes the question feel like a compliment instead of an interrogation.
-
-Between equals there is no gap.
-
-> Which piece of career advice did you follow faithfully before realising it was written for someone else's life?
-
-Asked of a director, that is a question about hindsight. Asked of someone at my own level, it asks them to name a mistake they are probably still inside. Peers needed a different logic. Not authority but exchange. The test became simple.
-
-> Would I happily answer this myself, right after they do?
-
 ### One deliberate omission
 
 Nothing here asks about difficulty. No regrets. No fears. No what are you struggling with at the moment. This is a choice that I have made rather than an oversight. Every question of that kind I tried made the mood drop and the whole point was to leave a person feeling valued rather than examined. It does set a ceiling but these questions are meant to reliably produce warm and generous conversation. They will not produce the other kind, where someone tells you a thing they have never said out loud. That needs a different list, a different setting, and a lot more trust.
@@ -137,5 +125,5 @@ Nothing here asks about difficulty. No regrets. No fears. No what are you strugg
 
 **Take the short answer when you get one.** Not everyone wants to go there on a Tuesday. The deflection is information too. Pushing past it turns a question into an extraction.
 
-> None of this is a script. It is closer to a set of doors I have found that tend to open. The reason I bothered is simple enough. The people I get to eat with know things and I would rather leave the table having asked. So take the three rules. Hand them authority rather than asking for vulnerability. Make sure anyone at the table can answer. Give them a runway so they know which direction to walk. Then write your own because the questions that work best will be the ones built for the people actually in your life.
+> Take the three rules. Hand them authority rather than asking for vulnerability. Make sure anyone at the table can answer. Give them a runway so they know which direction to walk. Then write your own set of questions built for the people in your life.
 {: .prompt-tip }
