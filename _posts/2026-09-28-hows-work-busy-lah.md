@@ -71,7 +71,7 @@ There is no handle on that question. It is so open that the person has to first 
 
 Compare it with this one.
 
-> Where do you feel most like yourself: a particular café, a walk you take, your parents' kitchen?
+> Where do you feel most like yourself: a particular cafe, a walk you take, your parents kitchen?
 
 The examples do not limit the answer. They tell the person which direction to start walking.
 
@@ -96,7 +96,7 @@ Nothing here asks about difficulty. No regrets. No fears. No what are you strugg
 ### Friends
 
 1. What's a food or habit you've picked up recently or have been wanting to try? Can you tell me what it does for you and why I should be excited about it?
-2. Where do you feel most like yourself: a particular café, a walk that you take, your parents' kitchen? What is it about that place that lets you exhale?
+2. Where do you feel most like yourself: a particular cafe, a walk that you take, your parents kitchen? What is it about that place that lets you exhale?
 3. What's something small that reliably lifts your mood that you'd never think to mention to anyone?
 4. If I had one free weekend in the city you grew up in, where would you send me and what food would you tell me to order?
 5. At what moment did you realise you could move from friendship into a relationship? Was it something they said or something you noticed in yourself when they weren't in the room?
