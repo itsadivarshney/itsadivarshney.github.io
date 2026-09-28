@@ -13,23 +13,23 @@ description: "A reflection on how better questions turn limited time with people
 
 ## The arithmetic you might not have done
 
-I see my parents a few times a year. There are one or two directors at work whose calendars might open up for a single lunch in a year. A professor from university crosses my path perhaps once a year, almost always by accident. A close friend moved overseas to study and we manage to call about once a quarter.
+A close friend moved overseas and we manage to call about once a quarter. There are one or two directors at work whose calendars might open up for a single lunch in a year. A professor from university crosses my path perhaps once a year, almost always by accident.
 
-None of these felt like small numbers until I sat down and multiplied them out across the years I can reasonably expect to have. Time is finite and a conversation that goes nowhere spends it just as quickly as a good one does. I know how most of these conversations begin, because I have sat through many of them myself.
+None of these felt like small numbers until I sat down and multiplied them out across the years I can reasonably expect to have. When you actually do the math on the people you don't see every day, the total is surprisingly small. Time is finite, and a conversation that goes nowhere spends it just as quickly as a good one does.
+
+This brings us to the quiet tragedy of the casual catch-up. I know exactly how almost all of them begin.
 
 > How's work? Busy lah.
 
-Then the meal ends. We agree we should do this more often but nothing has passed between us.
-
-Once I saw the scarcity clearly, I wanted to do something about it because these are the people who came into my life and chose to stay in it. The few hours I get with them deserve better than small talk. I wanted to leave the table knowing something I had not known before. I wanted them to leave feeling the time had been worth giving me.
+An hour later, the meal ends. We agree we should do this more often, but nothing real has passed between us.
 
 ## What I was actually trying to do
 
-When I started writing questions down for myself, I noticed that the ones I liked least were the ones that asked a person to hand over something very personal. Those questions can work but they need trust already in place and a good amount of time set aside with nothing else planned. Across a lunch with someone I see once a year this would not work. It asks for more than the occasion can carry.
+When I started writing questions down for myself, I noticed that the ones I liked least were the ones that asked a person to hand over something very personal. Those questions can work, but they need deep trust already in place and a good amount of time set aside with nothing else planned. Across a lunch with someone I see once a year, this just doesn't work. It asks for more than the occasion can carry.
 
-I wanted questions that worked the other way.
+I needed questions that worked the other way.
 
-A good question for me tells someone that their experience is worth asking about. It says the years they spent doing whatever they did produced something I would like to learn from.
+A good question tells someone that their experience is worth asking about. It says the years they spent doing whatever they did produced something I would genuinely like to learn from.
 
 > The question is a compliment. The answer is a gift.
 
@@ -49,19 +49,17 @@ It seems reasonable on its face. However, it is also a question that asks a pers
 
 So I turned it around.
 
-Now it asks what they have picked up recently. What it does for them and why I should be excited to try it. Same subject, opposite posture. The first version collects a confession. The second hands them the floor as an expert. In practice, the second gets me a five minute answer where the first got me a sentence.
+Now, it asks what they've picked up recently, what it does for them, and why I should be excited to try it. Same subject, opposite posture. The first version collects a confession. The second hands them the floor as an expert. In practice, the second gets me a five-minute animated answer where the first got me a defensive sentence.
 
 Nearly every question I kept survived that same flip.
 
 ### Make sure anyone can answer
 
-I had a question that went something like this.
+I used to have a question that went something like this:
 
 > When did you last change your mind about something you had believed for years?
 
-It sounds profound. In practice a lot of clear headed people have nothing to say to it. They are then stuck performing a depth they do not happen to have that evening. For me a good question should be answerable by almost everyone at the table.
-
-> The depth comes from where a question leads, not from how demanding it is at the door.
+It sounds profound. But in practice, a lot of clear-headed people simply have nothing to say to it. They are then stuck performing a depth they don't happen to have that evening. A good question should be answerable by almost anyone at the table without making them sweat. The depth comes from where a question leads, not from how demanding it is at the door.
 
 ### Give them a runway
 
@@ -91,7 +89,7 @@ It does set a ceiling. Even though answering these positively framed questions s
 4. If I had one free weekend in the city you grew up in, where would you send me and what food would you tell me to order?
 5. Thinking back to when you and [Partner's Name] first got together, at what moment did you realise it could move from friendship into a relationship? Was it something they said or something you noticed in yourself when they weren't in the room?
 
-### Colleagues around my age
+### Work peers
 
 1. What are you into at the moment that has nothing to do with work?
 2. What's the best thing you've spent money on this year and would you buy it again?
@@ -107,7 +105,7 @@ It does set a ceiling. Even though answering these positively framed questions s
 4. Which skill did you invest in early that's still paying off and which one did you expect to matter more than it actually did?
 5. When you're deciding whether to trust someone with something important, what are you actually watching for?
 
-### Parents, professors, and elders
+### Elders
 
 1. What's something you understand now that nobody could have explained to you at twenty five that simply had to be lived?
 2. Who shaped the way you think the most and what did they do or say that stayed with you?
