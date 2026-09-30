@@ -121,7 +121,7 @@ It does set a ceiling. Even though answering these positively framed questions s
 
 **Adapt to the person.** These questions are templates, not rigid formulas. Match their frequency and speak in your own voice rather than playing the role of an interviewer.
 
-**One question per sitting.** This is not a set you work through. You bring one out when the conversation has a gap in it. Then you put the list away. Running several of them turns dinner into an interview, which is precisely what I was trying to avoid.
+**Few questions per sitting.** This is not a set you work through. You bring one out when the conversation has a gap in it. Then you put the list away. Running through all of them turns dinner into an interview, which is precisely what I was trying to avoid.
 
 **Be ready to answer it yourself.** This matters most with people your own age. Whatever depth you offer sets the ceiling for what comes back.
 
