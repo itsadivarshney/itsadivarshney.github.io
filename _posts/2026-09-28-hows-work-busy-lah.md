@@ -3,13 +3,15 @@ title: "How's work? Busy lah."
 date: 2026-09-28 09:00:00 +0800
 categories: [Conversations]
 tags: [conversations, questions]
-description: "A reflection on how better questions turn limited time with people into something worth keeping."
+description: "A reflection on how to design better questions to turn limited time with people into something worth keeping."
 ---
 
 <img src="/assets/img/conversations_photos/1.jpeg" alt="photo for post on conversations" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
 
 > What would you ask someone if you knew this was the only lunch you'd get with them this year?
 {: .prompt-tip }
+
+*Note: This post focuses purely on the mechanics of a good question, i.e., what to ask when you want to move past the surface.*
 
 ## The arithmetic you might not have done
 
@@ -115,15 +117,21 @@ It does set a ceiling. Even though answering these positively framed questions s
 
 ## How to use them, and how not to
 
-**One per sitting.** This is not a set you work through. You bring one out when the conversation has a gap in it. Then you put the list away. Running several of them turns dinner into an interview, which is precisely what I was trying to avoid.
+**Read the room first.** Don't fire off a reflective question cold in the first few minutes. Feel out their energy and meet them where they are. A question only lands when the room feels relaxed enough to hold it.
+
+**Adapt to the person.** These questions are templates, not rigid formulas. Match their frequency and speak in your own voice rather than playing the role of an interviewer.
+
+**One question per sitting.** This is not a set you work through. You bring one out when the conversation has a gap in it. Then you put the list away. Running several of them turns dinner into an interview, which is precisely what I was trying to avoid.
+
+**Be ready to answer it yourself.** This matters most with people your own age. Whatever depth you offer sets the ceiling for what comes back.
 
 **Let the silence sit.** Longer than feels comfortable. People tend to give you the polite answer first and the real one second. The second one only arrives if you do not fill the gap.
 
 **Do not follow a good answer with another question.** When someone hands you something real, the job is not to respond impressively. The job is to not flinch and to not move on too quickly.
 
-**Be ready to answer it yourself.** This matters most with people your own age. Whatever depth you offer sets the ceiling for what comes back.
+**Recognize your own intensity.** I am naturally an "intense" person. When given the choice, I will almost always steer a conversation into deeper waters. But most people do not walk around looking for a profound, soul-baring exchange over a casual lunch. These questions are not meant to force every interaction into the deep end. They simply unlock the door, just in case the other person wants to walk through it.
 
 **Take the short answer when you get one.** Not everyone wants to go there on a Tuesday. The deflection is information too. Pushing past it turns a question into an extraction.
 
-> Take the three rules. Hand them authority rather than asking for vulnerability. Make sure anyone at the table can answer. Give them a runway so they know which direction to walk. Then write your own set of questions built for the people in your life.
+> Take the three rules. Hand them authority rather than asking for vulnerability. Make sure anyone at the table can answer. Give them a runway so they know which direction to walk. Then calibrate for the room, remember that not every conversation needs to be profound, and write your own set of questions built for the people in your life.
 {: .prompt-tip }
