@@ -11,23 +11,23 @@ description: "A reflection on how to design better questions to turn limited tim
 > What would you ask someone if you knew this was the only lunch you'd get with them this year?
 {: .prompt-tip }
 
-*Note: This post focuses purely on the mechanics of a good question, i.e., what to ask when you want to move past the surface.*
+*Note: This post is about what to ask when you want to move past the surface. When and how far to take it is not covered here.*
 
 ## The arithmetic you might not have done
 
 A close friend moved overseas and we manage to call about once a quarter. There are one or two directors at work whose calendars might open up for a single lunch in a year. A professor from university crosses my path perhaps once a year, almost always by accident.
 
-None of these felt like small numbers until I sat down and multiplied them out across the years I can reasonably expect to have. When you actually do the math on the people you don't see every day, the total is surprisingly small. Time is finite, and a conversation that goes nowhere spends it just as quickly as a good one does.
-
-This brings us to the quiet tragedy of the casual catch-up. I know exactly how almost all of them begin.
+None of these felt like small numbers until I sat down and multiplied them out across the years I can reasonably expect to have. Time is finite and a conversation that goes nowhere spends it just as quickly as a good one does. I know how most of these conversations begin, because I have sat through many of them myself.
 
 > How's work? Busy lah.
 
-An hour later, the meal ends. We agree we should do this more often, but nothing real has passed between us.
+An hour later, the meal ends. We agree we should do this more often but nothing real has passed between us.
+
+Once I saw the scarcity clearly, I wanted to do something about it because these are the people who came into my life and chose to stay in it. The few hours I get with them deserve better than small talk. I wanted to leave the table knowing something I had not known before. I wanted them to leave feeling the time had been worth giving me.
 
 ## What I was actually trying to do
 
-When I started writing questions down for myself, I noticed that the ones I liked least were the ones that asked a person to hand over something very personal. Those questions can work, but they need deep trust already in place and a good amount of time set aside with nothing else planned. Across a lunch with someone I see once a year, this just doesn't work. It asks for more than the occasion can carry.
+When I started writing questions down for myself, I noticed that the ones I liked least were the ones that asked a person to hand over something very personal. Those questions can work, but they need deep trust already in place and a good amount of time set aside with nothing else planned. Across a lunch with someone I see once a year, this doesn't work. It asks for more than the occasion can carry.
 
 I needed questions that worked the other way.
 
@@ -51,7 +51,7 @@ It seems reasonable on its face. However, it is also a question that asks a pers
 
 So I turned it around.
 
-Now, it asks what they've picked up recently, what it does for them, and why I should be excited to try it. Same subject, opposite posture. The first version collects a confession. The second hands them the floor as an expert. In practice, the second gets me a five-minute animated answer where the first got me a defensive sentence.
+Now, it asks what they've picked up recently, what it does for them, and why I should be excited to try it. Same subject, opposite posture. The first version collects a confession. The second hands them the floor as an expert. In practice, the second gets me a five-minute answer where the first got me a defensive sentence.
 
 Nearly every question I kept survived that same flip.
 
@@ -61,7 +61,7 @@ I used to have a question that went something like this:
 
 > When did you last change your mind about something you had believed for years?
 
-It sounds profound. But in practice, a lot of clear-headed people simply have nothing to say to it. They are then stuck performing a depth they don't happen to have that evening. A good question should be answerable by almost anyone at the table without making them sweat. The depth comes from where a question leads, not from how demanding it is at the door.
+It sounds profound. But in practice, a lot of clear-headed people simply have nothing to say to it. They are then stuck performing a depth they don't happen to have that evening. A good question should be answerable by almost anyone at the table without making them sweat. The depth comes from where a question leads and not from how demanding it is at the door.
 
 ### Give them a runway
 
@@ -75,11 +75,23 @@ Compare it with this one.
 
 The examples do not limit the answer. They tell the person which direction to start walking.
 
+### The rule that broke the system
+
+I wrote the questions for people my own age last and they were the weakest of the four sets. It took me a while to see why. Every rule above depends on a gap. The other person knows something I do not. I ask. They give.
+
+Between equals there is no gap.
+
+> Which piece of career advice did you follow faithfully before realising it was written for someone else's life?
+
+Asked of a director, that is a question about hindsight. Asked of someone at my own level, it asks them to name a mistake they are probably still inside. Peers needed a different logic. Not authority but exchange. The test became simple.
+
+> Would I happily answer this myself, right after they do?
+
 ### One deliberate omission
 
 Nothing here asks about difficulty. No regrets. No fears. No what are you struggling with at the moment. This is a choice that I have made rather than an oversight. Every question of that kind I tried made the mood drop and the whole point was to leave a person feeling valued rather than examined.
 
-It does set a ceiling. Even though answering these positively framed questions still requires genuine emotional presence, they are meant to reliably produce warm and generous conversation. They will not produce the other kind, where someone tells you a thing they have never said out loud. That needs a different list, a different setting, and a lot more trust.
+It does set a ceiling. These questions are meant to reliably produce warm and generous conversation. They will not produce the other kind, where someone tells you a thing they have never said out loud. That needs a different list, a different setting, and a lot more trust.
 
 ## The questions
 
@@ -89,7 +101,7 @@ It does set a ceiling. Even though answering these positively framed questions s
 2. Where do you feel most like yourself: your regular cafe, a walk you take in the evening, your parents' kitchen? What is it about that place that lets you exhale?
 3. What's something small that reliably lifts your mood that you'd never think to mention to anyone?
 4. If I had one free weekend in the city you grew up in, where would you send me and what food would you tell me to order?
-5. Thinking back to when you and [Partner's Name] first got together, at what moment did you realise it could move from friendship into a relationship? Was it something they said or something you noticed in yourself when they weren't in the room?
+5. Thinking back to when you and your partner first got together, at what moment did you realise it could move from friendship into a relationship? Was it something they said or something you noticed in yourself when they weren't in the room?
 
 ### Work peers
 
@@ -109,7 +121,7 @@ It does set a ceiling. Even though answering these positively framed questions s
 
 ### Elders
 
-1. What's something you understand now that nobody could have explained to you at twenty five that simply had to be lived?
+1. What's something you understand now that nobody could have explained to you at twenty-five that simply had to be lived?
 2. Who shaped the way you think the most and what did they do or say that stayed with you?
 3. What's a habit or a routine you've kept for decades that you'd recommend to anyone?
 4. What's one thing from how you grew up that you wish had survived into today?
@@ -117,11 +129,11 @@ It does set a ceiling. Even though answering these positively framed questions s
 
 ## How to use them, and how not to
 
-**Read the room first.** Don't fire off a reflective question cold in the first few minutes. Feel out their energy and meet them where they are. A question only lands when the room feels relaxed enough to hold it.
+**Read the room first.** A question only lands when the room feels relaxed enough to hold it. When and how far to push is not covered in this post.
 
-**Adapt to the person.** These questions are templates, not rigid formulas. Match their frequency and speak in your own voice rather than playing the role of an interviewer.
+**Adapt to the person.** These questions are templates, not rigid formulas. Match their pace and speak in your own voice rather than playing the role of an interviewer.
 
-**Few questions per sitting.** This is not a set you work through. You bring one out when the conversation has a gap in it. Then you put the list away. Running through all of them turns dinner into an interview, which is precisely what I was trying to avoid.
+**One or two per sitting.** This is not a set you work through. You bring one out when the conversation has a gap in it. Then you put the list away. Running through all of them turns dinner into an interview, which is precisely what I was trying to avoid.
 
 **Be ready to answer it yourself.** This matters most with people your own age. Whatever depth you offer sets the ceiling for what comes back.
 
@@ -129,9 +141,9 @@ It does set a ceiling. Even though answering these positively framed questions s
 
 **Do not follow a good answer with another question.** When someone hands you something real, the job is not to respond impressively. The job is to not flinch and to not move on too quickly.
 
-**Recognize your own intensity.** I am naturally an "intense" person. When given the choice, I will almost always steer a conversation into deeper waters. But most people do not walk around looking for a profound, soul-baring exchange over a casual lunch. These questions are not meant to force every interaction into the deep end. They simply unlock the door, just in case the other person wants to walk through it.
-
 **Take the short answer when you get one.** Not everyone wants to go there on a Tuesday. The deflection is information too. Pushing past it turns a question into an extraction.
 
-> Take the three rules. Hand them authority rather than asking for vulnerability. Make sure anyone at the table can answer. Give them a runway so they know which direction to walk. Then calibrate for the room, remember that not every conversation needs to be profound, and write your own set of questions built for the people in your life.
+*None of this is a script. It is closer to a set of doors I have found that tend to open. The reason I bothered is simple enough. The people I get to eat with know things and I would rather leave the table having asked.*
+
+> Take the three rules. Hand them authority rather than asking for vulnerability. Make sure anyone at the table can answer. Give them a runway so they know which direction to walk. Then write your own set of questions, built for the people actually in your life.
 {: .prompt-tip }
