@@ -19,11 +19,11 @@ After I published a post on asking better questions, a close friend wrote to me 
 
 > Can this be generalized to all conversation that has the potential to go deep?
 
-His concern came from a recent realisation. He believed that he and I are what he called "intense" people. We almost always prefer a conversation to go as deep as possible. In his observation most people are not like this. Not everyone can move from zero to a hundred at once. He pointed to the small talk culture in the United States as an example. People there begin at zero and gradually move toward more meaningful ground. They do this through related topics and other skills that he admitted he had not yet understood.
+His concern came from a recent realisation. He believed that he and I are what he called **intense** people. We almost always prefer a conversation to go as deep as possible. In his observation most people are not like this. Not everyone can move from zero to a hundred at once. He pointed to the small talk culture in the United States as an example. People there begin at zero and gradually move toward more meaningful ground. They do this through related topics and other skills that he admitted he had not yet understood.
 
 His question deserves a careful answer. The word he chose is a good place to begin.
 
-I understand why he called me intense. I am not afraid of conversations that others find exposing. Given the choice I will usually take the deeper road. Several people have told me that I come across as genuine and that they find themselves sharing more than they intended. Yet intense is not quite the right word. It suggests speed or force. Neither of these is what makes a conversation go deep. People open up when they feel *safe*. What my friend noticed is a willingness to enter vulnerable ground combined with an effort to make that ground safe for the other person.
+I understand why he called me intense. I am not afraid of conversations that others find exposing. Given the choice I will usually take the deeper road. Several people have told me that I come across as genuine and that they find themselves sharing more than they intended. Yet intense is not quite the right word. It suggests speed or force. Neither of these is what makes a conversation go deep. People open up when they feel **safe**. What my friend noticed is a willingness to enter vulnerable ground combined with an effort to make that ground safe for the other person.
 
 This reframes his question. Most people are not slow. They simply need evidence of safety before they move further. Each person gathers that evidence at their own pace.
 
@@ -83,7 +83,7 @@ The approach does not generalise to every conversation. Good questions show wher
 
 The skill he has not yet named is less mysterious than it appears. When a deeper question meets resistance, step back to something nearby that feels safe. Be honest about why you are meeting and about how much you have to give that day. Be willing to go first. Sometimes simply remain in the room and stay quiet long enough.
 
-I would also question the word he used for the two of us: *intense*. We now live in different countries and our time together is limited. Before we speak we sometimes note down a few things from our lives that we want to share. It is not a formal agenda. We do not stop at what happened. We ask what each experience taught us. Recently he walked me through a subject he had been researching in depth. I learned more in that conversation than I had in years. From the outside this may look intense but from the inside it feels *intentional*. We know our time is short and we choose to spend it on what matters.
+I would also question the word he used for the two of us: **intense**. We now live in different countries and our time together is limited. Before we speak we sometimes note down a few things from our lives that we want to share. It is not a formal agenda. We do not stop at what happened. We ask what each experience taught us. Recently he walked me through a subject he had been researching in depth. I learned more in that conversation than I had in years. From the outside this may look intense but from the inside it feels **intentional**. We know our time is short and we choose to spend it on what matters.
 
 > Depth cannot be rushed. It can only be made safe. Ask the good question when the room is ready, step back when it is not, and sometimes just sit with someone long enough for them to choose.
 {: .prompt-tip }
