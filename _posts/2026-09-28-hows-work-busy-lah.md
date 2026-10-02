@@ -67,7 +67,7 @@ It sounds profound. But in practice, a lot of clear-headed people simply have no
 
 So, I kept the subject and widened the door.
 
-> What's something you understand now that nobody could have explained to you at twenty years old that simply had to be lived?
+> What's something you've only come to understand by living through it?
 
 It does not ask anyone to have been wrong. It only asks what life has taught them and everyone has something. The depth comes from where a question leads and not from how demanding it is at the door.
 
@@ -135,7 +135,7 @@ It does set a ceiling. These questions are meant to reliably produce warm and ge
 
 ### Elders
 
-1. What's something you understand now that nobody could have explained to you at twenty years old that simply had to be lived?
+1. What's something you've only come to understand by living through it?
 2. Who shaped the way you think the most and what did they do or say that stayed with you?
 3. What's a habit or a routine you've kept for decades that you'd recommend to anyone?
 4. What's one thing from how you grew up that you wish had survived into today?
