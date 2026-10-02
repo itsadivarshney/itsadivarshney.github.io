@@ -11,7 +11,7 @@ description: "A reflection on why depth cannot be rushed, what small talk is rea
 > What does someone need from you before they are willing to go deeper?
 {: .prompt-tip }
 
-*Note: This post responds to feedback on an earlier piece, [How's work? Busy lah.](/posts/hows-work-busy-lah/), but it stands on its own. That piece was about what to ask. This one is about when to ask and how far to go. What we owe someone after they open up deserves its own discussion, and I will return to it in a later piece.*
+*Note: This post responds to feedback on an earlier piece, [How's work? Busy lah.](/posts/hows-work-busy-lah/), but it stands on its own. That piece was about what to ask. This one is about when to ask and how far to go. What we owe someone after they open up deserves its own discussion and I will return to it in a later piece.*
 
 ## The feedback
 

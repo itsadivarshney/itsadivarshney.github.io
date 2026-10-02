@@ -49,7 +49,9 @@ One of my early questions was about food.
 
 It seems reasonable on its face. However, it is also a question that asks a person to open by admitting they were wrong about something.
 
-So I turned it around.
+So, I turned it around.
+
+> What's a food or habit you've picked up recently or have been wanting to try? Can you tell me what it does for you and why I should be excited about it?
 
 Now, it asks what they've picked up recently, what it does for them, and why I should be excited to try it. Same subject, opposite posture. The first version collects a confession. The second hands them the floor as an expert. In practice, the second gets me a five-minute answer where the first got me a defensive sentence.
 
@@ -61,7 +63,13 @@ I used to have a question that went something like this:
 
 > When did you last change your mind about something you had believed for years?
 
-It sounds profound. But in practice, a lot of clear-headed people simply have nothing to say to it. They are then stuck performing a depth they don't happen to have that evening. A good question should be answerable by almost anyone at the table without making them sweat. The depth comes from where a question leads and not from how demanding it is at the door.
+It sounds profound. But in practice, a lot of clear-headed people simply have nothing to say to it. They are then stuck performing a depth they don't happen to have that evening.
+
+So, I kept the subject and widened the door.
+
+> What's something you understand now that nobody could have explained to you at twenty years old that simply had to be lived?
+
+It does not ask anyone to have been wrong. It only asks what life has taught them and everyone has something. The depth comes from where a question leads and not from how demanding it is at the door.
 
 ### Give them a runway
 
@@ -83,7 +91,13 @@ Between equals there is no gap.
 
 > Which piece of career advice did you follow faithfully before realising it was written for someone else's life?
 
-Asked of a director, that is a question about hindsight. Asked of someone at my own level, it asks them to name a mistake they are probably still inside. Peers needed a different logic. Not authority but exchange. The test became simple.
+Asked of a director, that is a question about hindsight. Asked of someone at my own level, it asks them to name a mistake they are probably still inside. Peers needed a different logic. Not authority but exchange.
+
+So, the question changed.
+
+> What are you into at the moment that has nothing to do with work?
+
+I can answer that one myself the moment they finish. That became the test.
 
 > Would I happily answer this myself, right after they do?
 
@@ -121,7 +135,7 @@ It does set a ceiling. These questions are meant to reliably produce warm and ge
 
 ### Elders
 
-1. What's something you understand now that nobody could have explained to you at twenty-five that simply had to be lived?
+1. What's something you understand now that nobody could have explained to you at twenty years old that simply had to be lived?
 2. Who shaped the way you think the most and what did they do or say that stayed with you?
 3. What's a habit or a routine you've kept for decades that you'd recommend to anyone?
 4. What's one thing from how you grew up that you wish had survived into today?
