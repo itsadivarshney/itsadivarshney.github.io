@@ -11,7 +11,7 @@ description: "A reflection on why depth cannot be rushed, what small talk is rea
 > What does someone need from you before they are willing to go deeper?
 {: .prompt-tip }
 
-*Note: This post responds to feedback on an earlier piece, [How's work? Busy lah.](/posts/hows-work-busy-lah/), but it stands on its own. That piece was about what to ask. This one is about when to ask and how far to go.*
+*Note: This post responds to feedback on an earlier piece, [How's work? Busy lah.](/posts/hows-work-busy-lah/), but it stands on its own. That piece was about what to ask. This one is about when to ask and how far to go. What we owe someone after they open up deserves its own discussion, and I will return to it in a later piece.*
 
 ## The feedback
 
@@ -82,6 +82,8 @@ Here is my answer to my friend.
 The approach does not generalise to every conversation. Good questions show where a conversation can go. Small talk is the runway. Safety is what allows anyone to take off. Different people need runways of different lengths. Some have opened up before and been hurt. Others have met enough unkind people that unexpected warmth makes them wary. A long runway is not a flaw in such a person. It reflects what their life has taught them.
 
 The skill he has not yet named is less mysterious than it appears. When a deeper question meets resistance, step back to something nearby that feels safe. Be honest about why you are meeting and about how much you have to give that day. Be willing to go first. Sometimes simply remain in the room and stay quiet long enough.
+
+Making it safe does not end when the meal does. When someone opens up, they are lending me something precious. It still belongs to them. I should not pass it on to others. I should not twist it to paint a picture of them, even if we one day drift apart. Without this promise, everything above is just a set of tricks to get people talking. With it, their trust is something I have earned.
 
 I would also question the word he used for the two of us: **intense**. We now live in different countries and our time together is limited. Before we speak we sometimes note down a few things from our lives that we want to share. It is not a formal agenda. We do not stop at what happened. We ask what each experience taught us. Recently he walked me through a subject he had been researching in depth. I learned more in that conversation than I had in years. From the outside this may look intense but from the inside it feels **intentional**. We know our time is short and we choose to spend it on what matters.
 
