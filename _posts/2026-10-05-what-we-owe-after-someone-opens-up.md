@@ -19,7 +19,7 @@ After my last post, another friend wrote to me. They agreed that people open up 
 
 > It's just sad that when connections get severed, some people use that information to twist how others see you, instead of seeing you as just a human being.
 
-Their conclusion was simple. Be cautious about what you share and depth will come naturally once a bond and trust are formed. I agree with most of this and I have seen words twisted that way. In this post, I want to look at it from both sides because I have been the one whose words travelled and also the one who passed someone else's words along. I would choose a different word than cautious, though. I will come back to that at the end.
+Their conclusion was simple. Be cautious about what you share and depth will come naturally once a bond and trust are formed. I agree with most of this and I have seen words twisted that way. In this post, I want to look at it from both sides because I have been the one whose words travelled and also the one who passed someone else's words along.
 
 ## When my words travelled
 
