@@ -6,6 +6,8 @@ tags: [conversations, trust]
 description: "A reflection on what we owe someone after they open up and why being mindful matters more than being cautious."
 ---
 
+<img src="/assets/img/conversations_photos/3.jpeg" alt="photo for post on conversations" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+
 > Once someone has opened up to you, what do you owe them?
 {: .prompt-tip }
 
