@@ -15,7 +15,7 @@ description: "A reflection on what we owe someone after they open up and why bei
 
 ## The feedback
 
-After my last post, another friend wrote to me. They agreed that people open up when they feel safe. Then they took the idea somewhere I had only touched on in a single paragraph. They pointed out that some people do not fully understand the depth of their own experience. They share it with whoever happens to ask. Then they spoke about what happens when a connection is cut.
+After my last post, another friend wrote to me. They agreed with the core idea that people open up when they feel safe. But they pushed the thought further than I had into something I had only touched on in a single paragraph. They pointed out that some people do not fully understand the depth of their own experience, so they share it with whoever happens to ask. And that becomes a problem once a connection ends.
 
 > It's just sad that when connections get severed, some people use that information to twist how others see you, instead of seeing you as just a human being.
 
