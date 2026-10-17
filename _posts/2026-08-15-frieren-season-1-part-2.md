@@ -2,6 +2,7 @@
 title: "Frieren: Season 1, Part 2"
 date: 2026-08-15 09:00:00 +0800
 categories: [Anime Reflections - Frieren]
+tags: [frieren, anime]
 description: "Episodes 17 to 28"
 ---
 
@@ -30,6 +31,8 @@ description: "Episodes 17 to 28"
 > - Leker (the chef of the restaurant in Äußerst)
 > - Sense (a first-class mage and exam proctor)
 > - Burg (a first-class mage who was killed by Übel)
+
+*Each episode follows the same pattern: the story, the themes I took from it, and a reflection to sit with.*
 
 <img src="/assets/img/frieren_photos/1_part_2.jpeg" alt="Frieren and Stark" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
 <p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">Frieren and Stark at a cake shop in Tainan</p>

@@ -2,6 +2,7 @@
 title: "Frieren: Season 1, Part 1"
 date: 2026-07-20 09:00:00 +0800
 categories: [Anime Reflections - Frieren]
+tags: [frieren, anime]
 description: "Episodes 1 to 16"
 ---
 
@@ -12,21 +13,21 @@ description: "Episodes 1 to 16"
 > - Himmel (the hero)
 > - Heiter (the priest)
 > - Eisen (the warrior)
-> - Qual (the demon)
-> - Flamme (the legendary mage)
-> - Graf Granat (the ruler of a city in the Northern Lands)
+> - Qual (the demon who created Zoltraak)
+> - Flamme (the legendary mage and Frieren's master)
+> - Graf Granat (the ruler of a fortified city in the Northern Lands)
 > - Aura the Guillotine (one of the Seven Sages of Destruction)
-> - Lügner (the demon who served Aura the Guillotine)
-> - Linie (the demon girl)
-> - Basalt the Throne (the demon general)
+> - Lügner, Linie and Draht (Aura's executioners)
+> - Basalt the Throne (the demon general who destroyed Frieren's village)
 > - Kraft (the elven monk)
 > - Stoltz (Stark's older brother)
 > - Sein (the priest)
-> - Kreis (Sein's childhood friend, nicknamed the Gorilla Warrior)
-> - Lord Orden (the head of the Orden family in Vorig)
-> - Wirt (Lord Orden's eldest son)
-> - Mut (Lord Orden's younger son)
+> - The Gorilla Warrior (Sein's childhood friend)
+> - Lord Orden (the lord of the fortress city of Vorig)
+> - Wirt (Lord Orden's late eldest son)
 > - Old Man Voll (the dwarf warrior)
+
+*Each episode follows the same pattern: the story, the themes I took from it, and a reflection to sit with.*
 
 <img src="/assets/img/frieren_photos/1_part_1.jpeg" alt="Frieren and Fern" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
 <p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">A puzzle of Frieren and Fern</p>
@@ -141,9 +142,6 @@ Frieren shows that it is never too late to learn to love the present, or to set 
 
 > Reflection: The love and wisdom we leave behind can continue to guide and protect our loved ones long after we are gone.
 {: .prompt-tip }
-
-<img src="/assets/img/frieren_photos/2_part_1.jpeg" alt="Stark" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
-<p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">Stark (the young warrior) at Hayashi Department Store in Tainan</p>
 
 ## Episode 5: Phantoms of the Dead
 

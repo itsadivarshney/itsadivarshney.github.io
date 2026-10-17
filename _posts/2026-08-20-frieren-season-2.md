@@ -2,6 +2,7 @@
 title: "Frieren: Season 2"
 date: 2026-08-20 09:00:00 +0800
 categories: [Anime Reflections - Frieren]
+tags: [frieren, anime]
 description: "Episodes 29 to 38"
 ---
 
@@ -14,17 +15,23 @@ description: "Episodes 29 to 38"
 > - Eisen (the warrior)
 > - Sein (the priest)
 > - Kraft (the elven monk)
-> - Wirbel (a mage who fought demon king remnants)
-> - The Hero of the South (mankind's strongest hero who could see the future)
-> - Schlacht the Omniscient (the demon king's right-hand man)
-> - Fass (a dwarf searching for the legendary spirit)
-> - Milliarde (an elf)
+> - Wirbel (a first-class mage heading north to fight demons)
+> - The Hero of the South (the hero who could see the future)
+> - Schlacht the Omniscient (the demon who killed the Hero of the South)
+> - Graf Dach (the lord whose family guards a cursed sword)
+> - Fass (a dwarf searching for a legendary drink)
+> - Milliarde (an elf Frieren once knew)
 > - Norm (the president of the Norm Company)
-> - Serie (the great elf mage)
-> - Genau (a first-class mage and proctor)
+> - Serie (the great elven mage)
+> - Genau (a first-class mage)
 > - Methode (a first-class mage)
-> - Revolte (the four-sword wielding demon general)
+> - Revolte (the four-sword demon general)
 > - Gehen (the dwarf bridge builder)
+
+*Each episode follows the same pattern: the story, the themes I took from it, and a reflection to sit with.*
+
+<img src="/assets/img/frieren_photos/2_part_1.jpeg" alt="Stark" style="border-radius: 8px; display: block; margin: 15px auto 5px auto;">
+<p align="center" style="font-size: 0.9em; color: #666; margin-bottom: 25px;">Stark (the young warrior) at Hayashi Department Store in Tainan</p>
 
 ## Episode 29: Shall We Go, Then?
 
