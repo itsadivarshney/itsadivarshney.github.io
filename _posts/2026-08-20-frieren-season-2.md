@@ -289,5 +289,4 @@ By committing to work and ideals that outlast us, we help lay the foundation for
 {: .prompt-tip }
 
 ## References
-
-- Co-written with support from [Claude](https://claude.ai/).
+- Co-written with [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).

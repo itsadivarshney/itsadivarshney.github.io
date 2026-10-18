@@ -93,5 +93,4 @@ description: "Nine timeless teachings drawn from my reflections on the Bhagavad 
 {: .prompt-tip }
 
 ## References
-
-- Co-written with support from [Claude](https://claude.ai/).
+- Co-written with [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).

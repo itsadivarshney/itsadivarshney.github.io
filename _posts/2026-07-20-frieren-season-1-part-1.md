@@ -54,7 +54,7 @@ Episode 1 leaves us with a question that lingers:
 
 > Who in our lives are we taking for granted because we assume there will always be more time?
 
-Frieren shows that we do not have to wait for grief to start paying attention. If someone matters to us, the time to choose connection is now, before the moment passes.
+Frieren's situation shows that we do not have to wait for grief to start paying attention. If someone matters to us, the time to choose connection is now, before the moment passes.
 
 > Reflection: Painful as it is, regret can be the spark that breaks through our emotional detachment and pushes us to cherish the people in our lives today.
 {: .prompt-tip }
@@ -136,9 +136,9 @@ The episode also reveals something remarkable about Flamme. Around a thousand ye
 ### Closing Thought
 Episode 4 links a small moment, watching a sunrise, with the long-range care of a teacher guiding her student across centuries. Both stories ask us to take part in our relationships. We should get up early to share simple moments with friends, and we should try to leave behind care that helps others in the future.
 
-> How often do we let ordinary moments slip by, or forget how long our care can last in someone else's life?
+> How often do we let ordinary moments slip by or forget how long our care can last in someone else's life?
 
-Frieren shows that it is never too late to learn to love the present, or to set out on a journey to heal.
+Frieren shows that it is never too late to learn to love the present or to set out on a journey to heal.
 
 > Reflection: The love and wisdom we leave behind can continue to guide and protect our loved ones long after we are gone.
 {: .prompt-tip }
@@ -221,9 +221,9 @@ A flashback to Himmel's past captures this conflict between hope and reality. Wh
 The deception runs deep. Aura sent the envoys not to make peace but to get the town to lower its defenses so she could slaughter everyone. While the townspeople are taken in, Frieren prepares to fight. When a hot-headed demon comes to kill her in her cell, he assumes she is weak. He has no idea her strength surpasses Aura's.
 
 ### Closing Thought
-Episode 7 questions how we think about memory, words and hope. It asks us to balance our instinct toward compassion with the need to see clearly.
+Episode 7 questions how we think about memory, words, and hope. It asks us to balance our instinct toward compassion with the need to see clearly.
 
-> How often do we let comforting illusions hide the truth, and how can we learn to see things as they are?
+> How often do we let comforting illusions hide the truth and how can we learn to see things as they are?
 
 If we stay grounded in reality and honor the love of those who came before us, we can find our way in a world where appearances deceive.
 
@@ -480,5 +480,4 @@ By cherishing the friends who know us best and honoring the commitments we make,
 {: .prompt-tip }
 
 ## References
-
-- Co-written with support from [Claude](https://claude.ai/).
+- Co-written with [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).

@@ -167,3 +167,6 @@ It does set a ceiling. These questions are meant to reliably produce warm and ge
 
 > Take the four rules. Hand them authority rather than asking for vulnerability. Make sure anyone at the table can answer. Give them a handle so they know where to take hold. Ask only what you would happily answer yourself. Then write your own set of questions, built for the people actually in your life.
 {: .prompt-tip }
+
+## References
+- Co-written with [Microsoft Copilot Chat](https://copilot.cloud.microsoft/).

@@ -99,3 +99,6 @@ What someone told me in trust stays part of their life, even if I am no longer p
 
 > Speak mindfully, because your words cannot be taken back. Listen as though what you hear was never yours to repeat, because it never was.
 {: .prompt-tip }
+
+## References
+- Co-written with [Microsoft Copilot Chat](https://copilot.cloud.microsoft/).

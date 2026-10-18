@@ -359,5 +359,4 @@ We leave our most lasting mark through the care we show others, knowing our path
 {: .prompt-tip }
 
 ## References
-
-- Co-written with support from [Claude](https://claude.ai/).
+- Co-written with [Microsoft Copilot Chat](https://copilot.cloud.microsoft/) and [Google Gemini](https://gemini.google.com/).

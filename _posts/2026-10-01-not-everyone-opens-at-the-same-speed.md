@@ -101,3 +101,6 @@ From the outside this may look intense, but from the inside it feels **intention
 
 > Depth cannot be rushed. It can only be made safe. Ask the good question when the room is ready, step back when it is not, and sometimes just sit with someone long enough for them to choose.
 {: .prompt-tip }
+
+## References
+- Co-written with [Microsoft Copilot Chat](https://copilot.cloud.microsoft/).
