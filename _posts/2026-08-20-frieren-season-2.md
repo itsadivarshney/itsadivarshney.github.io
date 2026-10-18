@@ -287,3 +287,7 @@ By committing to work and ideals that outlast us, we help lay the foundation for
 
 > Reflection: Generosity is the willingness to build a bridge you will never cross yourself, so that the people you care about can one day reach the other side safely.
 {: .prompt-tip }
+
+## References
+
+- Co-written with support from [Claude](https://claude.ai/).

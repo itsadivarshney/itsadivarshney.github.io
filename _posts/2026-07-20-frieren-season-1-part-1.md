@@ -478,3 +478,7 @@ By cherishing the friends who know us best and honoring the commitments we make,
 
 > Reflection: Love endures not in perfect memories, but in the faithful actions we continue long after the one we love is gone.
 {: .prompt-tip }
+
+## References
+
+- Co-written with support from [Claude](https://claude.ai/).

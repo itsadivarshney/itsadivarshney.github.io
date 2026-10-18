@@ -357,3 +357,7 @@ We leave our most lasting mark through the care we show others, knowing our path
 
 > Reflection: Small, everyday acts of kindness are what protect the daily peace of ordinary people, and that is where heroism really lives.
 {: .prompt-tip }
+
+## References
+
+- Co-written with support from [Claude](https://claude.ai/).
