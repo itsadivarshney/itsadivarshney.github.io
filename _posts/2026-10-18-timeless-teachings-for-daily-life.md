@@ -35,16 +35,16 @@ description: "Nine timeless teachings drawn from my reflections on the Bhagavad 
 
 > **Speak the truth gently.**
 >
-> Speech should be non-agitating, truthful, and beneficial. It is easy to tell it like it is; it is harder to make sure [the truth can actually be received](/posts/the-transformative-power-of-mindful-speech/).
+> Speech should be non-agitating, truthful, and beneficial. It is easy to tell it like it is but it is harder to make sure [the truth can actually be received](/posts/the-transformative-power-of-mindful-speech/).
 {: .prompt-tip }
 
 ### 4. Boundaries
 
-> *Saying "no" may cost you approval, and some will call it unkind.*
+> *Saying "no" may cost you approval and some will call it unkind.*
 
 > **Hold the boundary with an open heart.**
 >
-> A boundary set from [Samatvam](/posts/how-setting-boundaries-is-an-act-of-love/), or equanimity, is a filter, not a wall. You can refuse a behaviour while [still honouring the person](/posts/protecting-your-peace-without-closing-your-heart/).
+> A boundary set from [Samatvam](/posts/how-setting-boundaries-is-an-act-of-love/), or equanimity, is a filter and not a wall. You can refuse a behaviour while [still honouring the person](/posts/protecting-your-peace-without-closing-your-heart/).
 {: .prompt-tip }
 
 ### 5. Path
@@ -62,21 +62,21 @@ description: "Nine timeless teachings drawn from my reflections on the Bhagavad 
 
 > **Love and build without clinging.**
 >
-> Pleasure and pain come and go like winter and summer. Enjoy the [museum of ice](/posts/finding-grace-in-an-ever-changing-world/) while accepting that it will melt, and seek [stability in the Witness](/posts/finding-stability-in-the-changing-world/) rather than in the scenery.
+> Pleasure and pain come and go like winter and summer. Enjoy the [museum of ice](/posts/finding-grace-in-an-ever-changing-world/) while accepting that it will melt and seek [stability in the Witness](/posts/finding-stability-in-the-changing-world/) rather than in the scenery.
 {: .prompt-tip }
 
 ### 7. Service
 
-> *The people you help may never thank you, and your ego may want them to.*
+> *The people you help may never thank you and your ego may want them to.*
 
 > **Serve as an offering.**
 >
-> Offer your actions without possessiveness. The receiver is not beneath you; they are [giving you a chance to practise humility](/posts/the-beautiful-dance-of-generosity/).
+> Offer your actions without possessiveness. The receiver is not beneath you, they are [giving you a chance to practise humility](/posts/the-beautiful-dance-of-generosity/).
 {: .prompt-tip }
 
 ### 8. Solitude
 
-> *Silence will feel empty, and your mind will grow restless when you are alone.*
+> *Silence will feel empty and your mind will grow restless when you are alone.*
 
 > **Sit with yourself.**
 >
